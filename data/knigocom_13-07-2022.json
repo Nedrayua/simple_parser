@@ -1,0 +1,4202 @@
+[
+    {
+        "book_name": "Легенда про вічне життя",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/legenda-pro-vichne-zhyttya/"
+    },
+    {
+        "book_name": "Перехресні стежки",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/perehresni-stezhky/"
+    },
+    {
+        "book_name": "Старосвітські батюшки та...",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/starosvitski-batyushky-ta-matushky/"
+    },
+    {
+        "book_name": "Кассандра",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/kassandra/"
+    },
+    {
+        "book_name": "Чарлі і шоколадна фабрика",
+        "book_author": "Роальд Даль",
+        "book_link": "https://knigogo.com.ua/knigi/charli-i-shokoladna-fabryka/"
+    },
+    {
+        "book_name": "Пархімове снідання",
+        "book_author": "Григорій Квітка-Основ’яненко",
+        "book_link": "https://knigogo.com.ua/knigi/parhimove-snidannya/"
+    },
+    {
+        "book_name": "Хазяїн",
+        "book_author": "Іван Карпенко-Карий",
+        "book_link": "https://knigogo.com.ua/knigi/hazyayin/"
+    },
+    {
+        "book_name": "Вибрані новели",
+        "book_author": "Василь Стефаник",
+        "book_link": "https://knigogo.com.ua/knigi/vybrani-novely/"
+    },
+    {
+        "book_name": "Intermezzo (Інтермецо)",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/intermezzo/"
+    },
+    {
+        "book_name": "Завдання Героїв",
+        "book_author": "Морган Райс",
+        "book_link": "https://knigogo.com.ua/knigi/zavdannya-geroyiv/"
+    },
+    {
+        "book_name": "Бояриня",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/boyarynya/"
+    },
+    {
+        "book_name": "Сліпий музикант",
+        "book_author": "Володимир Короленко",
+        "book_link": "https://knigogo.com.ua/knigi/slipyj-muzykant/"
+    },
+    {
+        "book_name": "Гетьман Іван Виговський",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/getman-ivan-vygovskyj/"
+    },
+    {
+        "book_name": "Маруся",
+        "book_author": "Григорій Квітка-Основ’яненко",
+        "book_link": "https://knigogo.com.ua/knigi/marusya-kvitka-osnovyanenko/"
+    },
+    {
+        "book_name": "Циган",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/tsygan/"
+    },
+    {
+        "book_name": "За двома зайцями",
+        "book_author": "Михайло Петрович Старицький",
+        "book_link": "https://knigogo.com.ua/knigi/za-dvoma-zajtsyamy/"
+    },
+    {
+        "book_name": "Макбет",
+        "book_author": "Вільям Шекспір",
+        "book_link": "https://knigogo.com.ua/knigi/makbet/"
+    },
+    {
+        "book_name": "Дві московки",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/dvi-moskovky/"
+    },
+    {
+        "book_name": "Кіт у чоботях",
+        "book_author": "Микола Хвильовий",
+        "book_link": "https://knigogo.com.ua/knigi/kit-u-chobotyah/"
+    },
+    {
+        "book_name": "Салдацький патрет",
+        "book_author": "Григорій Квітка-Основ’яненко",
+        "book_link": "https://knigogo.com.ua/knigi/saldatskyj-patret/"
+    },
+    {
+        "book_name": "Маруся Богуславка",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/marusya-boguslavka/"
+    },
+    {
+        "book_name": "Хмари",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/hmary/"
+    },
+    {
+        "book_name": "Сестра",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/sestra/"
+    },
+    {
+        "book_name": "В дорозі",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/v-dorozi/"
+    },
+    {
+        "book_name": "Митькозавр із Юрківки, а...",
+        "book_author": "Ярослав Стельмах",
+        "book_link": "https://knigogo.com.ua/knigi/mytkozavr-iz-yurkivky/"
+    },
+    {
+        "book_name": "Магомет і Хадиза",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/magomet-i-hadyza/"
+    },
+    {
+        "book_name": "Князь Єремія Вишневецький",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/knyaz-yeremiya-vyshnevetskyj/"
+    },
+    {
+        "book_name": "Жага до життя",
+        "book_author": "Джек Лондон",
+        "book_link": "https://knigogo.com.ua/knigi/zhaga-do-zhyttya/"
+    },
+    {
+        "book_name": "Повість про санаторійну ...",
+        "book_author": "Микола Хвильовий",
+        "book_link": "https://knigogo.com.ua/knigi/povist-pro-sanatorijnu-zonu/"
+    },
+    {
+        "book_name": "Федько-халамидник",
+        "book_author": "Володимир Винниченко",
+        "book_link": "https://knigogo.com.ua/knigi/fedko-halamydnyk/"
+    },
+    {
+        "book_name": "На полі крові",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/na-poli-krovi/"
+    },
+    {
+        "book_name": "Безталанна",
+        "book_author": "Іван Карпенко-Карий",
+        "book_link": "https://knigogo.com.ua/knigi/beztalanna/"
+    },
+    {
+        "book_name": "Усмішка",
+        "book_author": "Рей Бредбері",
+        "book_link": "https://knigogo.com.ua/knigi/usmishka-bredberi/"
+    },
+    {
+        "book_name": "Маленький грішник",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/malenkyj-grishnyk/"
+    },
+    {
+        "book_name": "Вальдшнепи",
+        "book_author": "Микола Хвильовий",
+        "book_link": "https://knigogo.com.ua/knigi/valdshnepy/"
+    },
+    {
+        "book_name": "Без пуття",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/bez-puttya/"
+    },
+    {
+        "book_name": "Скорочено Пістрява стрічка",
+        "book_author": "Артур Конан Дойл",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-pistryava-strichka/"
+    },
+    {
+        "book_name": "Твої листи завжди пахнут...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/tvoyi-lysty-zavzhdy-pahnut-zov-yalymy-troyandamy/"
+    },
+    {
+        "book_name": "Афонський пройдисвіт",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/afonskyj-projdysvit/"
+    },
+    {
+        "book_name": "Із секретів поетичної тв...",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/iz-sekretiv-poetychnoyi-tvorchosti/"
+    },
+    {
+        "book_name": "Камо грядеши",
+        "book_author": "Микола Хвильовий",
+        "book_link": "https://knigogo.com.ua/knigi/kamo-gryadeshy/"
+    },
+    {
+        "book_name": "Аліса в Країні Чудес",
+        "book_author": "Льюїс Керрол",
+        "book_link": "https://knigogo.com.ua/knigi/alisa-v-krayini-chudes/"
+    },
+    {
+        "book_name": "Облога Бушi",
+        "book_author": "Михайло Петрович Старицький",
+        "book_link": "https://knigogo.com.ua/knigi/obloga-bushi/"
+    },
+    {
+        "book_name": "Зачароване місце",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/zacharovane-mistse/"
+    },
+    {
+        "book_name": "Моє серце в верховині",
+        "book_author": "Роберт Бернс",
+        "book_link": "https://knigogo.com.ua/knigi/moye-sertse-v-verhovyni/"
+    },
+    {
+        "book_name": "Чортова пригода",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/chortova-prygoda/"
+    },
+    {
+        "book_name": "До Основ’яненка",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/do-osnov-yanenka/"
+    },
+    {
+        "book_name": "Одержима",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/oderzhyma/"
+    },
+    {
+        "book_name": "Відгуки",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/vidguky/"
+    },
+    {
+        "book_name": "Вечорниці на хуторі під ...",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/vechornytsi-na-hutori-pid-dykankoyu/"
+    },
+    {
+        "book_name": "Гордовита пара",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/gordovyta-para/"
+    },
+    {
+        "book_name": "І мертвим, і живим, і не...",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/i-mertvym-i-zhyvym-i-nenarozhdennym/"
+    },
+    {
+        "book_name": "Дай серцеві волю, заведе...",
+        "book_author": "Марко Лукич Кропивницький",
+        "book_link": "https://knigogo.com.ua/knigi/daj-sertsevi-volyu-zavede-v-nevolyu/"
+    },
+    {
+        "book_name": "Гер переможений",
+        "book_author": "Любов Пономаренко",
+        "book_link": "https://knigogo.com.ua/knigi/ger-peremozhenyj/"
+    },
+    {
+        "book_name": "Міо, мій Міо",
+        "book_author": "Астрід Ліндгрен",
+        "book_link": "https://knigogo.com.ua/knigi/mio-mij-mio/"
+    },
+    {
+        "book_name": "Дивак",
+        "book_author": "Григір Тютюнник",
+        "book_link": "https://knigogo.com.ua/knigi/dyvak/"
+    },
+    {
+        "book_name": "Причепа",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/prychepa/"
+    },
+    {
+        "book_name": "Руфін і Прісцілла",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/rufin-i-pristsilla/"
+    },
+    {
+        "book_name": "Скорочено Кава з кардамоном",
+        "book_author": "Йоанна Ягелло",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-kava-z-kardamonom/"
+    },
+    {
+        "book_name": "ЛІЛЮЛІ",
+        "book_author": "Микола Хвильовий",
+        "book_link": "https://knigogo.com.ua/knigi/lilyuli/"
+    },
+    {
+        "book_name": "Тарас Бульба",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/taras-bulba/"
+    },
+    {
+        "book_name": "Три вірша",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/try-virsha/"
+    },
+    {
+        "book_name": "Valse melancolique (Мела...",
+        "book_author": "Ольга Кобилянська",
+        "book_link": "https://knigogo.com.ua/knigi/valse-melancolique/"
+    },
+    {
+        "book_name": "По ревізії",
+        "book_author": "Марко Лукич Кропивницький",
+        "book_link": "https://knigogo.com.ua/knigi/po-reviziyi/"
+    },
+    {
+        "book_name": "Рідне слово",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/ridne-slovo/"
+    },
+    {
+        "book_name": "Три долi",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/try-doli/"
+    },
+    {
+        "book_name": "Лялечка",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/lyalechka/"
+    },
+    {
+        "book_name": "Ледащиця",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/ledashhytsya/"
+    },
+    {
+        "book_name": "З глибини",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/z-glybyny/"
+    },
+    {
+        "book_name": "Наймичка",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/najmychka-shevchenko/"
+    },
+    {
+        "book_name": "На дні",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/na-dni/"
+    },
+    {
+        "book_name": "Фах",
+        "book_author": "Айзек Азімов",
+        "book_link": "https://knigogo.com.ua/knigi/fah/"
+    },
+    {
+        "book_name": "Ілля Муромець і Соловей-...",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/illya-muromets-i-solovej-rozbijnyk/"
+    },
+    {
+        "book_name": "Скорочено Буба: мертвий ...",
+        "book_author": "Барбара Космовська",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-buba-mertvyj-sezon/"
+    },
+    {
+        "book_name": "Попелюшка",
+        "book_author": "Шарль Перро",
+        "book_link": "https://knigogo.com.ua/knigi/popelyushka/"
+    },
+    {
+        "book_name": "Роковий український ярмарок",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/rokovyj-ukrayinskyj-yarmarok/"
+    },
+    {
+        "book_name": "Зів’яле листя",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/ziv-yale-lystya/"
+    },
+    {
+        "book_name": "Поезії поза збірками",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/poeziyi-poza-zbirkamy/"
+    },
+    {
+        "book_name": "Апокаліпсична картина в ...",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/apokalipsychna-kartyna-v-kyyevi/"
+    },
+    {
+        "book_name": "Декадент",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/dekadent/"
+    },
+    {
+        "book_name": "Сторонній",
+        "book_author": "Альбер Камю",
+        "book_link": "https://knigogo.com.ua/knigi/storonnij/"
+    },
+    {
+        "book_name": "Водограй",
+        "book_author": "Володимир Івасюк",
+        "book_link": "https://knigogo.com.ua/knigi/vodograj/"
+    },
+    {
+        "book_name": "Підкова",
+        "book_author": "Ірина Жиленко",
+        "book_link": "https://knigogo.com.ua/knigi/pidkova/"
+    },
+    {
+        "book_name": "Скорочено Тарас Бульба",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-taras-bulba/"
+    },
+    {
+        "book_name": "Скорочено Три товариші",
+        "book_author": "Еріх Марія Ремарк",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-try-tovaryshi/"
+    },
+    {
+        "book_name": "Звук павутинки",
+        "book_author": "Віктор Близнець",
+        "book_link": "https://knigogo.com.ua/knigi/zvuk-pavutynky/"
+    },
+    {
+        "book_name": "Скорочено Хіба ревуть во...",
+        "book_author": "Панас Мирний",
+        "book_link": "https://knigogo.com.ua/knigi/hiba-revut-voly-skorocheno/"
+    },
+    {
+        "book_name": "Пісня про віщого Олега",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/pisnya-pro-vishhogo-olega/"
+    },
+    {
+        "book_name": "Маскарад",
+        "book_author": "Михайло Лермонтов",
+        "book_link": "https://knigogo.com.ua/knigi/maskarad/"
+    },
+    {
+        "book_name": "Дитинство",
+        "book_author": "Лев Толстой",
+        "book_link": "https://knigogo.com.ua/knigi/dytynstvo/"
+    },
+    {
+        "book_name": "Телефон",
+        "book_author": "Корній Чуковський",
+        "book_link": "https://knigogo.com.ua/knigi/telefon/"
+    },
+    {
+        "book_name": "Лист матері",
+        "book_author": "Сергій Єсенін",
+        "book_link": "https://knigogo.com.ua/knigi/lyst-materi/"
+    },
+    {
+        "book_name": "Скорочено Руслан і Людмила",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-ruslan-i-lyudmyla/"
+    },
+    {
+        "book_name": "Герострат",
+        "book_author": "Володимир Самійленко",
+        "book_link": "https://knigogo.com.ua/knigi/gerostrat/"
+    },
+    {
+        "book_name": "Анчар",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/anchar/"
+    },
+    {
+        "book_name": "До побачення, хлопчики",
+        "book_author": "Булат Окуджава",
+        "book_link": "https://knigogo.com.ua/knigi/do-pobachennya-hlopchyky/"
+    },
+    {
+        "book_name": "Елегія",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/elegiya/"
+    },
+    {
+        "book_name": "Вовк та семеро козенят",
+        "book_author": "Брати (Якоб і Вільгельм) Грімм",
+        "book_link": "https://knigogo.com.ua/knigi/vovk-ta-semero-kozenyat/"
+    },
+    {
+        "book_name": "Вовк і Ягня",
+        "book_author": "Езоп",
+        "book_link": "https://knigogo.com.ua/knigi/vovk-i-yagnya/"
+    },
+    {
+        "book_name": "Чиж та Голуб",
+        "book_author": "Леонід Глібов",
+        "book_link": "https://knigogo.com.ua/knigi/chyzh-ta-golub/"
+    },
+    {
+        "book_name": "Коли настав чудовий май",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/koly-nastav-chudovyj-maj/"
+    },
+    {
+        "book_name": "Скорочено Євгеній Онєгін",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-yevgenij-onyegin/"
+    },
+    {
+        "book_name": "Ізольда білорука",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/izolda-biloruka/"
+    },
+    {
+        "book_name": "Жовтий туман",
+        "book_author": "Олександр Волков",
+        "book_link": "https://knigogo.com.ua/knigi/zhovtyj-tuman/"
+    },
+    {
+        "book_name": "Послухайте!",
+        "book_author": "Володимир Маяковський",
+        "book_link": "https://knigogo.com.ua/knigi/posluhajte/"
+    },
+    {
+        "book_name": "Маруся Чурай",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/marusya-churaj/"
+    },
+    {
+        "book_name": "Маска",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/maska-chehov/"
+    },
+    {
+        "book_name": "Голова професора Доуеля",
+        "book_author": "Олександр Бєляєв",
+        "book_link": "https://knigogo.com.ua/knigi/golova-profesora-douelya/"
+    },
+    {
+        "book_name": "Муза",
+        "book_author": "Анна Ахматова",
+        "book_link": "https://knigogo.com.ua/knigi/muza/"
+    },
+    {
+        "book_name": "Пісня про друга",
+        "book_author": "Володимир Висоцький",
+        "book_link": "https://knigogo.com.ua/knigi/pisnya-pro-druga/"
+    },
+    {
+        "book_name": "Сіроокий король",
+        "book_author": "Анна Ахматова",
+        "book_link": "https://knigogo.com.ua/knigi/sirookyj-korol/"
+    },
+    {
+        "book_name": "Механічний апельсин",
+        "book_author": "Ентоні Берджес",
+        "book_link": "https://knigogo.com.ua/knigi/mehanichnyj-apelsyn/"
+    },
+    {
+        "book_name": "Заступила чорна хмара",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/zastupyla-chorna-hmara/"
+    },
+    {
+        "book_name": "Скорочено Гаррi Поттер i...",
+        "book_author": "Джоан Роулінг",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-garri-potter-i-filosofskyj-kamin/"
+    },
+    {
+        "book_name": "Швачка",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/shvachka/"
+    },
+    {
+        "book_name": "У перетику ходила",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/u-peretyku-hodyla/"
+    },
+    {
+        "book_name": "Вакханки",
+        "book_author": "Евріпід",
+        "book_link": "https://knigogo.com.ua/knigi/vakhanky/"
+    },
+    {
+        "book_name": "Бандуристе, орле сизий",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/banduryste-orle-syzyj/"
+    },
+    {
+        "book_name": "Якби-то ти, Богдане п’яний",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/yakby-to-ty-bogdane-p-yanyj/"
+    },
+    {
+        "book_name": "Я не нездужаю, нівроку",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/ya-ne-nezduzhayu-nivroku/"
+    },
+    {
+        "book_name": "Що таке поступ?",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/shho-take-postup/"
+    },
+    {
+        "book_name": "Заповіт (Як умру, то пох...",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/zapovit/"
+    },
+    {
+        "book_name": "Таємне Товариство Боягуз...",
+        "book_author": "Леся Воронина",
+        "book_link": "https://knigogo.com.ua/knigi/tayemne-tovarystvo-boyaguziv/"
+    },
+    {
+        "book_name": "Лис Микита",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/lys-mykyta/"
+    },
+    {
+        "book_name": "Виклик",
+        "book_author": "Михайло Петрович Старицький",
+        "book_link": "https://knigogo.com.ua/knigi/vyklyk/"
+    },
+    {
+        "book_name": "Скорочено Джим Ґудзик і ...",
+        "book_author": "Міхаель Енде",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-dzhym-gudzyk-i-mashynist-lukas/"
+    },
+    {
+        "book_name": "Айвенго",
+        "book_author": "Вальтер Скотт",
+        "book_link": "https://knigogo.com.ua/knigi/ajvengo/"
+    },
+    {
+        "book_name": "Абу-Касимові капці",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/abu-kasymovi-kaptsi/"
+    },
+    {
+        "book_name": "В катакомбах",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/v-katakombah/"
+    },
+    {
+        "book_name": "Дванадцять місяців (12 м...",
+        "book_author": "Самуїл Маршак",
+        "book_link": "https://knigogo.com.ua/knigi/12-misyatsiv/"
+    },
+    {
+        "book_name": "Борислав сміється",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/boryslav-smiyetsya/"
+    },
+    {
+        "book_name": "Тарасова ніч",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/tarasova-nich/"
+    },
+    {
+        "book_name": "Вірші",
+        "book_author": "Леонід Глібов",
+        "book_link": "https://knigogo.com.ua/knigi/virshi/"
+    },
+    {
+        "book_name": "Січові гості",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/sichovi-gosti/"
+    },
+    {
+        "book_name": "Біда бабі Палажці Солов&...",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/bida-babi-palazhtsi-solov-yisi/"
+    },
+    {
+        "book_name": "З вершин і низин",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/z-vershyn-i-nyzyn/"
+    },
+    {
+        "book_name": "Максим Гримач",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/maksym-grymach/"
+    },
+    {
+        "book_name": "Де зерно, там і полова",
+        "book_author": "Марко Лукич Кропивницький",
+        "book_link": "https://knigogo.com.ua/knigi/de-zerno-tam-i-polova/"
+    },
+    {
+        "book_name": "На крилах пісень",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/na-krylah-pisen/"
+    },
+    {
+        "book_name": "Великі проводи",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/velyki-provody/"
+    },
+    {
+        "book_name": "Дорога й ластівка",
+        "book_author": "Микола Хвильовий",
+        "book_link": "https://knigogo.com.ua/knigi/doroga-j-lastivka/"
+    },
+    {
+        "book_name": "Лось",
+        "book_author": "Євген Гуцало",
+        "book_link": "https://knigogo.com.ua/knigi/los/"
+    },
+    {
+        "book_name": "Коні не винні",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/koni-ne-vynni/"
+    },
+    {
+        "book_name": "В путах Шайтана",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/v-putah-shajtana/"
+    },
+    {
+        "book_name": "Троє схотінок",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/troye-shotinok/"
+    },
+    {
+        "book_name": "Оповiдання (збірник)",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/opovidannya-zbirnyk/"
+    },
+    {
+        "book_name": "Із літ моєї молодості",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/iz-lit-moyeyi-molodosti/"
+    },
+    {
+        "book_name": "Загадки",
+        "book_author": "Леонід Глібов",
+        "book_link": "https://knigogo.com.ua/knigi/zagadky/"
+    },
+    {
+        "book_name": "Куліш у пеклі",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/kulish-u-pekli/"
+    },
+    {
+        "book_name": "На кожум’яках",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/na-kozhum-yakah/"
+    },
+    {
+        "book_name": "Повість минулих літ",
+        "book_author": "Нестор Літописець",
+        "book_link": "https://knigogo.com.ua/knigi/povist-mynulyh-lit/"
+    },
+    {
+        "book_name": "Ніч на Дніпрі",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/nich-na-dnipri/"
+    },
+    {
+        "book_name": "Заворожена криниця",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/zavorozhena-krynytsya/"
+    },
+    {
+        "book_name": "Глитай, або ж Павук",
+        "book_author": "Марко Лукич Кропивницький",
+        "book_link": "https://knigogo.com.ua/knigi/glytaj-abo-zh-pavuk/"
+    },
+    {
+        "book_name": "Ой у лузі червона калина...",
+        "book_author": "Степан Чарнецький",
+        "book_link": "https://knigogo.com.ua/knigi/oj-u-luzi-chervona-kalyna-pohylylasya/"
+    },
+    {
+        "book_name": "Дон Жуан",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/don-zhuan/"
+    },
+    {
+        "book_name": "Пісні про волю",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/pisni-pro-volyu/"
+    },
+    {
+        "book_name": "Комета прилітає",
+        "book_author": "Туве Янссон",
+        "book_link": "https://knigogo.com.ua/knigi/kometa-prylitaye/"
+    },
+    {
+        "book_name": "Скорочено Чарівна крамниця",
+        "book_author": "Герберт Уеллс",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-charivna-kramnytsya/"
+    },
+    {
+        "book_name": "Невільничка",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/nevilnychka/"
+    },
+    {
+        "book_name": "Чому, сказати, й сам не ...",
+        "book_author": "Андрій Малишко",
+        "book_link": "https://knigogo.com.ua/knigi/chomu-skazaty-j-sam-ne-znayu/"
+    },
+    {
+        "book_name": "Мурашки й Цикада",
+        "book_author": "Езоп",
+        "book_link": "https://knigogo.com.ua/knigi/murashky-j-tsykada/"
+    },
+    {
+        "book_name": "Чарівник Смарагдового міста",
+        "book_author": "Олександр Волков",
+        "book_link": "https://knigogo.com.ua/knigi/charivnyk-smaragdovogo-mista/"
+    },
+    {
+        "book_name": "Мауглі",
+        "book_author": "Редьярд Кіплінг",
+        "book_link": "https://knigogo.com.ua/knigi/maugli/"
+    },
+    {
+        "book_name": "За сонцем хмаронька пливе",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/za-sontsem-hmaronka-plyve/"
+    },
+    {
+        "book_name": "Дим",
+        "book_author": "Ігор Калинець",
+        "book_link": "https://knigogo.com.ua/knigi/dym-igor-kalinets/"
+    },
+    {
+        "book_name": "Скорочено Війна і мир",
+        "book_author": "Лев Толстой",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-vijna-i-myr/"
+    },
+    {
+        "book_name": "Іван Підкова",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/ivan-pidkova/"
+    },
+    {
+        "book_name": "Пані Метелиця",
+        "book_author": "Брати (Якоб і Вільгельм) Грімм",
+        "book_link": "https://knigogo.com.ua/knigi/pani-metelytsya/"
+    },
+    {
+        "book_name": "Андріївський узвіз",
+        "book_author": "Володимир Діброва",
+        "book_link": "https://knigogo.com.ua/knigi/andriyivskyj-uzviz/"
+    },
+    {
+        "book_name": "Лоліта",
+        "book_author": "Володимир Набоков",
+        "book_link": "https://knigogo.com.ua/knigi/lolita/"
+    },
+    {
+        "book_name": "Скорочено П’ятнадц...",
+        "book_author": "Жуль Верн",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-pyatnadtsyatyrichnyj-kapitan/"
+    },
+    {
+        "book_name": "Лисиця і виноград",
+        "book_author": "Езоп",
+        "book_link": "https://knigogo.com.ua/knigi/lysytsya-i-vynograd/"
+    },
+    {
+        "book_name": "Скорочено Дари волхвів",
+        "book_author": "О. Генрі",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-dary-volhviv/"
+    },
+    {
+        "book_name": "Якщо",
+        "book_author": "Редьярд Кіплінг",
+        "book_link": "https://knigogo.com.ua/knigi/yakshho/"
+    },
+    {
+        "book_name": "Ой ти, дівчино, з горіха...",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/oj-ty-divchyno-z-goriha-zernya/"
+    },
+    {
+        "book_name": "Любіть Україну",
+        "book_author": "Володимир Сосюра",
+        "book_link": "https://knigogo.com.ua/knigi/lyubit-ukrayinu/"
+    },
+    {
+        "book_name": "Все літо в один день",
+        "book_author": "Рей Бредбері",
+        "book_link": "https://knigogo.com.ua/knigi/vse-lito-v-odyn-den/"
+    },
+    {
+        "book_name": "Мартін Іден",
+        "book_author": "Джек Лондон",
+        "book_link": "https://knigogo.com.ua/knigi/martin-iden/"
+    },
+    {
+        "book_name": "Скорочено Тигролови",
+        "book_author": "Іван Багряний",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-tygrolovy/"
+    },
+    {
+        "book_name": "Незнайко в Сонячному місті",
+        "book_author": "Микола Носов",
+        "book_link": "https://knigogo.com.ua/knigi/neznajko-v-sonyachnomu-misti/"
+    },
+    {
+        "book_name": "Стежечка",
+        "book_author": "Ігор Калинець",
+        "book_link": "https://knigogo.com.ua/knigi/stezhechka/"
+    },
+    {
+        "book_name": "Слово, чому ти не тверда...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/slovo-chomu-ty-ne-tverdaya-krytsya/"
+    },
+    {
+        "book_name": "Лобо – володар Курумпо",
+        "book_author": "Ернест Сетон-Томпсон",
+        "book_link": "https://knigogo.com.ua/knigi/lobo-volodar-kurumpo/"
+    },
+    {
+        "book_name": "Мертві душі",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/mertvi-dushi/"
+    },
+    {
+        "book_name": "Ти знаєш, що ти — людина",
+        "book_author": "Василь Симоненко",
+        "book_link": "https://knigogo.com.ua/knigi/ty-znayesh-shho-ty-lyudyna/"
+    },
+    {
+        "book_name": "Троє поросят",
+        "book_author": "С.Міхалков",
+        "book_link": "https://knigogo.com.ua/knigi/troye-porosyat/"
+    },
+    {
+        "book_name": "Кавказ",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/kavkaz/"
+    },
+    {
+        "book_name": "Пісня над піснями",
+        "book_author": "Шолом-Алейхем",
+        "book_link": "https://knigogo.com.ua/knigi/pisnya-nad-pisnyamy/"
+    },
+    {
+        "book_name": "Веселка",
+        "book_author": "Ігор Калинець",
+        "book_link": "https://knigogo.com.ua/knigi/veselka/"
+    },
+    {
+        "book_name": "Товстий і тонкий",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/tovstyj-i-tonkyj/"
+    },
+    {
+        "book_name": "Дівчина з ведмедиком",
+        "book_author": "Віктор Петров (Домонтович)",
+        "book_link": "https://knigogo.com.ua/knigi/divchyna-z-vedmedykom/"
+    },
+    {
+        "book_name": "Війна і мир",
+        "book_author": "Лев Толстой",
+        "book_link": "https://knigogo.com.ua/knigi/vijna-i-myr/"
+    },
+    {
+        "book_name": "Майстер і Маргарита",
+        "book_author": "Михайло Булгаков",
+        "book_link": "https://knigogo.com.ua/knigi/majster-i-margaryta/"
+    },
+    {
+        "book_name": "Хатина дядька Тома",
+        "book_author": "Гаррієт Бічер-Стоу",
+        "book_link": "https://knigogo.com.ua/knigi/hatyna-dyadka-toma/"
+    },
+    {
+        "book_name": "Скорочено Айвенго",
+        "book_author": "Вальтер Скотт",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-ajvengo/"
+    },
+    {
+        "book_name": "Світязь",
+        "book_author": "Адам Міцкевич",
+        "book_link": "https://knigogo.com.ua/knigi/svityaz/"
+    },
+    {
+        "book_name": "Impromtu phantasie (Фант...",
+        "book_author": "Ольга Кобилянська",
+        "book_link": "https://knigogo.com.ua/knigi/impromtu-phantasie/"
+    },
+    {
+        "book_name": "Скорочено Захар Беркут",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-zahar-berkut/"
+    },
+    {
+        "book_name": "Клуб самогубців",
+        "book_author": "Роберт Луїс Стівенсон",
+        "book_link": "https://knigogo.com.ua/knigi/klub-samogubtsiv/"
+    },
+    {
+        "book_name": "Москаль-чарівник",
+        "book_author": "Іван Котляревський",
+        "book_link": "https://knigogo.com.ua/knigi/moskal-charivnyk/"
+    },
+    {
+        "book_name": "Вітрогон",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/vitrogon/"
+    },
+    {
+        "book_name": "Сава Чалий",
+        "book_author": "Іван Карпенко-Карий",
+        "book_link": "https://knigogo.com.ua/knigi/sava-chalyj/"
+    },
+    {
+        "book_name": "НеІдеальна матуся. Як на...",
+        "book_author": "Сара Тернер",
+        "book_link": "https://knigogo.com.ua/knigi/neidealna-matusya-yak-narodyty-ditej-i-ne-ochmanity/"
+    },
+    {
+        "book_name": "Думи мої, думи",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/dumy-moyi-dumy/"
+    },
+    {
+        "book_name": "Байда, князь Вишневецький",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/bajda-knyaz-vyshnevetskyj/"
+    },
+    {
+        "book_name": "Різдвяна пісня в прозі",
+        "book_author": "Чарльз Діккенс",
+        "book_link": "https://knigogo.com.ua/knigi/rizdvyana-pisnya-v-prozi/"
+    },
+    {
+        "book_name": "Садок вишневий коло хати",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/sadok-vyshnevyj-kolo-haty/"
+    },
+    {
+        "book_name": "Сині етюди",
+        "book_author": "Микола Хвильовий",
+        "book_link": "https://knigogo.com.ua/knigi/syni-etyudy/"
+    },
+    {
+        "book_name": "Грицева шкільна наука",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/grytseva-shkilna-nauka/"
+    },
+    {
+        "book_name": "Ромео і Джульєтта",
+        "book_author": "Вільям Шекспір",
+        "book_link": "https://knigogo.com.ua/knigi/romeo-i-dzhulyetta/"
+    },
+    {
+        "book_name": "Камінний господар",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/kaminnyj-gospodar/"
+    },
+    {
+        "book_name": "Два сини",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/dva-syny/"
+    },
+    {
+        "book_name": "Талан",
+        "book_author": "Михайло Петрович Старицький",
+        "book_link": "https://knigogo.com.ua/knigi/talan/"
+    },
+    {
+        "book_name": "Русалонька із 7-В, або П...",
+        "book_author": "Марина Павленко",
+        "book_link": "https://knigogo.com.ua/knigi/rusalonka-iz-7-v/"
+    },
+    {
+        "book_name": "Доки сонце зійде – роса ...",
+        "book_author": "Марко Лукич Кропивницький",
+        "book_link": "https://knigogo.com.ua/knigi/doky-sontse-zijde-rosa-ochi-vyyist/"
+    },
+    {
+        "book_name": "Кармелюк",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/karmelyuk/"
+    },
+    {
+        "book_name": "Оргія",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/orgiya/"
+    },
+    {
+        "book_name": "Капелюх Чарівника (Диво-...",
+        "book_author": "Туве Янссон",
+        "book_link": "https://knigogo.com.ua/knigi/kapelyuh-charivnyka/"
+    },
+    {
+        "book_name": "Запропаща грамота",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/zapropashha-gramota/"
+    },
+    {
+        "book_name": "Мандри Гуллівера",
+        "book_author": "Джонатан Свіфт",
+        "book_link": "https://knigogo.com.ua/knigi/mandry-gullivera/"
+    },
+    {
+        "book_name": "Жаба й Віл",
+        "book_author": "Леонід Глібов",
+        "book_link": "https://knigogo.com.ua/knigi/zhaba-j-vil/"
+    },
+    {
+        "book_name": "Останній дюйм",
+        "book_author": "Джеймс Олдрідж",
+        "book_link": "https://knigogo.com.ua/knigi/ostannij-dyujm/"
+    },
+    {
+        "book_name": "Гном у буфеті",
+        "book_author": "Ірина Жиленко",
+        "book_link": "https://knigogo.com.ua/knigi/gnom-u-bufeti/"
+    },
+    {
+        "book_name": "Скорочено За сестрою",
+        "book_author": "Андрій Чайковський",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-za-sestroyu/"
+    },
+    {
+        "book_name": "З дитинства: дощ",
+        "book_author": "Василь Голобородько",
+        "book_link": "https://knigogo.com.ua/knigi/z-dytynstva-doshh/"
+    },
+    {
+        "book_name": "Скорочено Мойсей",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-mojsej/"
+    },
+    {
+        "book_name": "Похід на Царгород",
+        "book_author": "Олександр Олесь",
+        "book_link": "https://knigogo.com.ua/knigi/pohid-na-tsargorod/"
+    },
+    {
+        "book_name": "Вовк і Ягня",
+        "book_author": "Іван Крилов",
+        "book_link": "https://knigogo.com.ua/knigi/vovk-i-yagnya-krylov/"
+    },
+    {
+        "book_name": "Вій",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/vij/"
+    },
+    {
+        "book_name": "Фантазери",
+        "book_author": "Микола Носов",
+        "book_link": "https://knigogo.com.ua/knigi/fantazery/"
+    },
+    {
+        "book_name": "Зимовий етюд",
+        "book_author": "Володимир Підпалий",
+        "book_link": "https://knigogo.com.ua/knigi/zymovyj-etyud/"
+    },
+    {
+        "book_name": "Мишкова каша",
+        "book_author": "Микола Носов",
+        "book_link": "https://knigogo.com.ua/knigi/myshkova-kasha/"
+    },
+    {
+        "book_name": "Чоловічий танець (Аркан)",
+        "book_author": "Василь Герасим'юк",
+        "book_link": "https://knigogo.com.ua/knigi/cholovichyj-tanets-arkan/"
+    },
+    {
+        "book_name": "Соловей",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/solovej/"
+    },
+    {
+        "book_name": "Казка про рибака та рибку",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/kazka-pro-rybaka-ta-rybku/"
+    },
+    {
+        "book_name": "Блакитна Панна",
+        "book_author": "Микола Вороний",
+        "book_link": "https://knigogo.com.ua/knigi/blakytna-panna/"
+    },
+    {
+        "book_name": "Квартет",
+        "book_author": "Іван Крилов",
+        "book_link": "https://knigogo.com.ua/knigi/kvartet/"
+    },
+    {
+        "book_name": "Пісня про Роланда",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/pisnya-pro-rolanda/"
+    },
+    {
+        "book_name": "Теплота родинного інтиму...",
+        "book_author": "Станіслав Чернілевський",
+        "book_link": "https://knigogo.com.ua/knigi/teplota-rodynnogo-intymu/"
+    },
+    {
+        "book_name": "Климко",
+        "book_author": "Григір Тютюнник",
+        "book_link": "https://knigogo.com.ua/knigi/klymko/"
+    },
+    {
+        "book_name": "До рідного народу",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/do-ridnogo-narodu/"
+    },
+    {
+        "book_name": "Чайка Джонатан Лівінгстон",
+        "book_author": "Річард Бах",
+        "book_link": "https://knigogo.com.ua/knigi/chajka-dzhonatan-livingston/"
+    },
+    {
+        "book_name": "З подорожньої книжки",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/z-podorozhnoyi-knyzhky/"
+    },
+    {
+        "book_name": "Далекий простір",
+        "book_author": "Ярослав Мельник",
+        "book_link": "https://knigogo.com.ua/knigi/dalekyj-prostir/"
+    },
+    {
+        "book_name": "Пеппі Довгапанчоха",
+        "book_author": "Астрід Ліндгрен",
+        "book_link": "https://knigogo.com.ua/knigi/peppi-dovgapanchoha/"
+    },
+    {
+        "book_name": "Аргонавти (Третя історія...",
+        "book_author": "Степан Процюк",
+        "book_link": "https://knigogo.com.ua/knigi/argonavty-tretya-istoriya/"
+    },
+    {
+        "book_name": "Казка про рукавичку",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/kazka-pro-rukavychku/"
+    },
+    {
+        "book_name": "Пан Коцький",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/pan-kotskyj/"
+    },
+    {
+        "book_name": "Крила",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/kryla/"
+    },
+    {
+        "book_name": "За сестрою",
+        "book_author": "Андрій Чайковський",
+        "book_link": "https://knigogo.com.ua/knigi/za-sestroyu/"
+    },
+    {
+        "book_name": "Побіда Хмельницького під...",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/pobida-hmelnytskogo-pid-zbarazhem-i-zborovom/"
+    },
+    {
+        "book_name": "Хлопчик-зірка",
+        "book_author": "Оскар Уайльд",
+        "book_link": "https://knigogo.com.ua/knigi/hlopchyk-zirka/"
+    },
+    {
+        "book_name": "Казка про яян",
+        "book_author": "Емма Андієвська",
+        "book_link": "https://knigogo.com.ua/knigi/kazka-pro-yayan/"
+    },
+    {
+        "book_name": "Дон Кіхот (Премудрий гід...",
+        "book_author": "Мігель де Сервантес",
+        "book_link": "https://knigogo.com.ua/knigi/don-kihot/"
+    },
+    {
+        "book_name": "Івасик-телесик",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/ivasyk-telesyk/"
+    },
+    {
+        "book_name": "Ляльковий дім",
+        "book_author": "Генрік Ібсен",
+        "book_link": "https://knigogo.com.ua/knigi/lyalkovyj-dim/"
+    },
+    {
+        "book_name": "Пісня про Гайавату",
+        "book_author": "Генрі Водсворт Лонгфелло",
+        "book_link": "https://knigogo.com.ua/knigi/pisnya-pro-gajavatu/"
+    },
+    {
+        "book_name": "Дим",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/dym-2/"
+    },
+    {
+        "book_name": "Скорочено Тореадори з Ва...",
+        "book_author": "Всеволод Нестайко",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-toreadory-z-vasyukivky/"
+    },
+    {
+        "book_name": "Пригоди Чиполіно (Пригод...",
+        "book_author": "Джанні Родарі",
+        "book_link": "https://knigogo.com.ua/knigi/prygody-chypolino/"
+    },
+    {
+        "book_name": "Скорочено Скотоферма (Фе...",
+        "book_author": "Джордж Орвелл",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-skotoferma/"
+    },
+    {
+        "book_name": "Цар Плаксій та Лоскотон",
+        "book_author": "Василь Симоненко",
+        "book_link": "https://knigogo.com.ua/knigi/tsar-plaksij-ta-loskoton/"
+    },
+    {
+        "book_name": "Собаче серце",
+        "book_author": "Михайло Булгаков",
+        "book_link": "https://knigogo.com.ua/knigi/sobache-sertse/"
+    },
+    {
+        "book_name": "Гуси-лебеді летять",
+        "book_author": "Михайло Стельмах",
+        "book_link": "https://knigogo.com.ua/knigi/gusy-lebedi-letyat/"
+    },
+    {
+        "book_name": "Говорюща риба",
+        "book_author": "Емма Андієвська",
+        "book_link": "https://knigogo.com.ua/knigi/govoryushha-ryba/"
+    },
+    {
+        "book_name": "Україна в старовину",
+        "book_author": "Олександр Олесь",
+        "book_link": "https://knigogo.com.ua/knigi/ukrayina-v-starovynu/"
+    },
+    {
+        "book_name": "Скорочено Золотий жук",
+        "book_author": "Едгар По",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-zolotyj-zhuk/"
+    },
+    {
+        "book_name": "Скорочено Ромео і Джульєтта",
+        "book_author": "Вільям Шекспір",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-romeo-i-dzhulyetta/"
+    },
+    {
+        "book_name": "Червона шапочка",
+        "book_author": "Шарль Перро",
+        "book_link": "https://knigogo.com.ua/knigi/chervona-shapochka/"
+    },
+    {
+        "book_name": "Ще не вмерла Україна",
+        "book_author": "Павло Чубинський",
+        "book_link": "https://knigogo.com.ua/knigi/shhe-ne-vmerla-ukrayina/"
+    },
+    {
+        "book_name": "Снігова королева",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/snigova-koroleva/"
+    },
+    {
+        "book_name": "Скорочено Жага до життя",
+        "book_author": "Джек Лондон",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-zhaga-do-zhyttya/"
+    },
+    {
+        "book_name": "Скорочено 451 градус за ...",
+        "book_author": "Рей Бредбері",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-451-gradus-za-farengejtom/"
+    },
+    {
+        "book_name": "Дюймовочка",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/dyujmovochka/"
+    },
+    {
+        "book_name": "Великий Гетсбі",
+        "book_author": "Френсіс Скотт Фіцджеральд",
+        "book_link": "https://knigogo.com.ua/knigi/velykyj-getsbi/"
+    },
+    {
+        "book_name": "На Козацьких островах",
+        "book_author": "Володимир Рутківський",
+        "book_link": "https://knigogo.com.ua/knigi/na-kozatskyh-ostrovah/"
+    },
+    {
+        "book_name": "Бджола та шершень",
+        "book_author": "Григорій Сковорода",
+        "book_link": "https://knigogo.com.ua/knigi/bdzhola-ta-shershen/"
+    },
+    {
+        "book_name": "Бременські музиканти",
+        "book_author": "Брати (Якоб і Вільгельм) Грімм",
+        "book_link": "https://knigogo.com.ua/knigi/bremenski-muzykanty/"
+    },
+    {
+        "book_name": "Дивосвіт, або ж Перша кн...",
+        "book_author": "Ігор Калинець",
+        "book_link": "https://knigogo.com.ua/knigi/dyvosvit/"
+    },
+    {
+        "book_name": "Жовтень жовті жолуді",
+        "book_author": "Анатолій Мойсієнко",
+        "book_link": "https://knigogo.com.ua/knigi/zhovten-zhovti-zholudi/"
+    },
+    {
+        "book_name": "Сучасникам",
+        "book_author": "Олена Теліга",
+        "book_link": "https://knigogo.com.ua/knigi/suchasnykam/"
+    },
+    {
+        "book_name": "З журбою радість обнялась…",
+        "book_author": "Олександр Олесь",
+        "book_link": "https://knigogo.com.ua/knigi/z-zhurboyu-radist-obnyalas/"
+    },
+    {
+        "book_name": "Хотіла б я піснею стати",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/hotila-b-ya-pisneyu-staty/"
+    },
+    {
+        "book_name": "Туга",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/tuga/"
+    },
+    {
+        "book_name": "Задзвени із глибини",
+        "book_author": "Генріх Гейне",
+        "book_link": "https://knigogo.com.ua/knigi/zadzveny-iz-glybyny/"
+    },
+    {
+        "book_name": "Скорочено Останній дюйм",
+        "book_author": "Джеймс Олдрідж",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-ostannij-dyujm/"
+    },
+    {
+        "book_name": "Скорочено Зачарована Десна",
+        "book_author": "Олександр Довженко",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-zacharovana-desna/"
+    },
+    {
+        "book_name": "Господь багатий нас благ...",
+        "book_author": "Олег Ольжич",
+        "book_link": "https://knigogo.com.ua/knigi/gospod-bagatyj-nas-blagoslovyv/"
+    },
+    {
+        "book_name": "Ой Морозе, Морозенку",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/oj-moroze-morozenku/"
+    },
+    {
+        "book_name": "Пригоди Муравлика",
+        "book_author": "Віталій Біанкі",
+        "book_link": "https://knigogo.com.ua/knigi/prygody-muravlyka/"
+    },
+    {
+        "book_name": "Рубаї",
+        "book_author": "Омар Хайям",
+        "book_link": "https://knigogo.com.ua/knigi/rubayi/"
+    },
+    {
+        "book_name": "Русалочка",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/rusalochka/"
+    },
+    {
+        "book_name": "Злочин і кара",
+        "book_author": "Федір Достоєвський",
+        "book_link": "https://knigogo.com.ua/knigi/zlochyn-i-kara/"
+    },
+    {
+        "book_name": "Скорочено Конотопська ві...",
+        "book_author": "Григорій Квітка-Основ’яненко",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-konotopska-vidma/"
+    },
+    {
+        "book_name": "З нічних молитов",
+        "book_author": "Іван Малкович",
+        "book_link": "https://knigogo.com.ua/knigi/z-nichnyh-molytov/"
+    },
+    {
+        "book_name": "Скорочено Ніч перед Різдвом",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-nich-pered-rizdvom/"
+    },
+    {
+        "book_name": "Тарасові шляхи",
+        "book_author": "Оксана Іваненко",
+        "book_link": "https://knigogo.com.ua/knigi/tarasovi-shlyahy/"
+    },
+    {
+        "book_name": "Хто розмовляє?",
+        "book_author": "Леонід Глібов",
+        "book_link": "https://knigogo.com.ua/knigi/hto-rozmovlyaye/"
+    },
+    {
+        "book_name": "Теплі слова",
+        "book_author": "Василь Голобородько",
+        "book_link": "https://knigogo.com.ua/knigi/tepli-slova/"
+    },
+    {
+        "book_name": "Американська трагедія",
+        "book_author": "Теодор Драйзер",
+        "book_link": "https://knigogo.com.ua/knigi/amerykanska-tragediya/"
+    },
+    {
+        "book_name": "Бородино",
+        "book_author": "Михайло Лермонтов",
+        "book_link": "https://knigogo.com.ua/knigi/borodyno/"
+    },
+    {
+        "book_name": "Про правду і кривду",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/pro-pravdu-i-kryvdu/"
+    },
+    {
+        "book_name": "Сонети (збірка)",
+        "book_author": "Вільям Шекспір",
+        "book_link": "https://knigogo.com.ua/knigi/sonety-zbirka/"
+    },
+    {
+        "book_name": "Silentium",
+        "book_author": "Федір Тютчев",
+        "book_link": "https://knigogo.com.ua/knigi/silentium/"
+    },
+    {
+        "book_name": "Парус",
+        "book_author": "Михайло Лермонтов",
+        "book_link": "https://knigogo.com.ua/knigi/parus/"
+    },
+    {
+        "book_name": "О слово рідне! Орле скут...",
+        "book_author": "Олександр Олесь",
+        "book_link": "https://knigogo.com.ua/knigi/o-slovo-ridne-orle-skutyj/"
+    },
+    {
+        "book_name": "Весняні води",
+        "book_author": "Федір Тютчев",
+        "book_link": "https://knigogo.com.ua/knigi/vesnyani-vody/"
+    },
+    {
+        "book_name": "Портрет",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/portret/"
+    },
+    {
+        "book_name": "Скорочено Фауст",
+        "book_author": "Йоганн Вольфганг фон Гете",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-faust/"
+    },
+    {
+        "book_name": "Мцирі",
+        "book_author": "Михайло Лермонтов",
+        "book_link": "https://knigogo.com.ua/knigi/mtsyri/"
+    },
+    {
+        "book_name": "Скорочено Перевтілення",
+        "book_author": "Франц Кафка",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-perevtilennya/"
+    },
+    {
+        "book_name": "Ася",
+        "book_author": "Іван Тургенєв",
+        "book_link": "https://knigogo.com.ua/knigi/asya/"
+    },
+    {
+        "book_name": "Смерть чиновника",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/smert-chynovnyka/"
+    },
+    {
+        "book_name": "Я вас любив (Я вас кохав)",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/ya-vas-lyubyv/"
+    },
+    {
+        "book_name": "Демон",
+        "book_author": "Михайло Лермонтов",
+        "book_link": "https://knigogo.com.ua/knigi/demon/"
+    },
+    {
+        "book_name": "Плач Ярославни",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/plach-yaroslavny/"
+    },
+    {
+        "book_name": "Казка про золотого півника",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/kazka-pro-zolotogo-pivnyka/"
+    },
+    {
+        "book_name": "По сей день Посейдон пос...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/po-sej-den-posejdon-posidaye-svij-tron/"
+    },
+    {
+        "book_name": "Смерть поета",
+        "book_author": "Михайло Лермонтов",
+        "book_link": "https://knigogo.com.ua/knigi/smert-poeta/"
+    },
+    {
+        "book_name": "Маленький Мук",
+        "book_author": "Вільгельм Гауф",
+        "book_link": "https://knigogo.com.ua/knigi/malenkyj-muk/"
+    },
+    {
+        "book_name": "Білі ночі",
+        "book_author": "Федір Достоєвський",
+        "book_link": "https://knigogo.com.ua/knigi/bili-nochi/"
+    },
+    {
+        "book_name": "Скорочено Мертві душі",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-mertvi-dushi/"
+    },
+    {
+        "book_name": "Я пам’ятник собі п...",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/ya-pam-yatnyk-sobi-postavyv-nezotlinnyj/"
+    },
+    {
+        "book_name": "Багаж",
+        "book_author": "Самуїл Маршак",
+        "book_link": "https://knigogo.com.ua/knigi/bagazh/"
+    },
+    {
+        "book_name": "Антігона",
+        "book_author": "Софокл",
+        "book_link": "https://knigogo.com.ua/knigi/antigona/"
+    },
+    {
+        "book_name": "Ежені Гранде",
+        "book_author": "Оноре де Бальзак",
+        "book_link": "https://knigogo.com.ua/knigi/ezheni-grande/"
+    },
+    {
+        "book_name": "Я піду в далекі гори",
+        "book_author": "Володимир Івасюк",
+        "book_link": "https://knigogo.com.ua/knigi/ya-pidu-v-daleki-gory/"
+    },
+    {
+        "book_name": "Скорочено Шинель",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-shynel/"
+    },
+    {
+        "book_name": "А зорі тут тихі",
+        "book_author": "Борис Васильєв",
+        "book_link": "https://knigogo.com.ua/knigi/a-zori-tut-tyhi/"
+    },
+    {
+        "book_name": "Чайка",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/chajka/"
+    },
+    {
+        "book_name": "Зимовий ранок",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/zymovyj-ranok/"
+    },
+    {
+        "book_name": "Тихий Дін",
+        "book_author": "Михайло Шолохов",
+        "book_link": "https://knigogo.com.ua/knigi/tyhyj-din/"
+    },
+    {
+        "book_name": "Пророк",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/prorok-pushkin/"
+    },
+    {
+        "book_name": "Причинна (Реве та стогне...",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/prychynna/"
+    },
+    {
+        "book_name": "Пікова дама",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/pikova-dama/"
+    },
+    {
+        "book_name": "Плаха",
+        "book_author": "Чингіз Айтматов",
+        "book_link": "https://knigogo.com.ua/knigi/plaha/"
+    },
+    {
+        "book_name": "Катюша",
+        "book_author": "Михайло Ісаковський",
+        "book_link": "https://knigogo.com.ua/knigi/katyusha/"
+    },
+    {
+        "book_name": "Американська трагедія",
+        "book_author": "Теодор Драйзер",
+        "book_link": "https://knigogo.com.ua/knigi/amerykanska-tragediya/"
+    },
+    {
+        "book_name": "Скорочено Діти підземелля",
+        "book_author": "Володимир Короленко",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-dity-pidzemellya/"
+    },
+    {
+        "book_name": "Вовк і Ягня",
+        "book_author": "Езоп",
+        "book_link": "https://knigogo.com.ua/knigi/vovk-i-yagnya/"
+    },
+    {
+        "book_name": "Білий Бім Чорне вухо",
+        "book_author": "Гаврило Троєпольський",
+        "book_link": "https://knigogo.com.ua/knigi/bilyj-bim-chorne-vuho/"
+    },
+    {
+        "book_name": "Ви знаєте, як липа шелес...",
+        "book_author": "Павло Тичина",
+        "book_link": "https://knigogo.com.ua/knigi/vy-znayete-yak-lypa-shelestyt/"
+    },
+    {
+        "book_name": "Скорочено Альпійська балада",
+        "book_author": "Василь Биков",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-alpijska-balada/"
+    },
+    {
+        "book_name": "Скорочено Снігова королева",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-snigova-koroleva/"
+    },
+    {
+        "book_name": "Собака на сіні",
+        "book_author": "Лопе де Вега",
+        "book_link": "https://knigogo.com.ua/knigi/sobaka-na-sini/"
+    },
+    {
+        "book_name": "Дубровський",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/dubrovskyj/"
+    },
+    {
+        "book_name": "Ісаія. Глава 35 (Подража...",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/isaiya-glava-35-podrazhaniye/"
+    },
+    {
+        "book_name": "Котлован",
+        "book_author": "Андрій Платонов",
+        "book_link": "https://knigogo.com.ua/knigi/kotlovan/"
+    },
+    {
+        "book_name": "20 000 льє під водою",
+        "book_author": "Жуль Верн",
+        "book_link": "https://knigogo.com.ua/knigi/20-000-lye-pid-vodoyu/"
+    },
+    {
+        "book_name": "19 жовтня 1825 року",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/19-zhovtnya-1825-roku/"
+    },
+    {
+        "book_name": "Ялинка",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/yalynka/"
+    },
+    {
+        "book_name": "Скорочено Повість минули...",
+        "book_author": "Нестор Літописець",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-povist-mynulyh-lit/"
+    },
+    {
+        "book_name": "Телефон",
+        "book_author": "Микола Носов",
+        "book_link": "https://knigogo.com.ua/knigi/telefon-nosov/"
+    },
+    {
+        "book_name": "Лебідь, Щука і Рак",
+        "book_author": "Іван Крилов",
+        "book_link": "https://knigogo.com.ua/knigi/lebid-shhuka-i-rak-krilov/"
+    },
+    {
+        "book_name": "1Q84",
+        "book_author": "Харукі Муракамі",
+        "book_link": "https://knigogo.com.ua/knigi/1q84/"
+    },
+    {
+        "book_name": "Скорочено Пані Боварі",
+        "book_author": "Гюстав Флобер",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-pani-bovari/"
+    },
+    {
+        "book_name": "Аґрус",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/agrus/"
+    },
+    {
+        "book_name": "Пісня про солдатів Весте...",
+        "book_author": "Константи Ільдефонс Галчинський",
+        "book_link": "https://knigogo.com.ua/knigi/pisnya-pro-soldativ-vesterplyatte/"
+    },
+    {
+        "book_name": "Убити пересмішника",
+        "book_author": "Гарпер Лі",
+        "book_link": "https://knigogo.com.ua/knigi/ubyty-peresmishnyka/"
+    },
+    {
+        "book_name": "Історія одного кохання",
+        "book_author": "Ерік Сігел",
+        "book_link": "https://knigogo.com.ua/knigi/istoriya-odnogo-kohannya/"
+    },
+    {
+        "book_name": "І день іде, і ніч іде",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/i-den-ide-i-nich-ide/"
+    },
+    {
+        "book_name": "Незнайома",
+        "book_author": "Олександр Блок",
+        "book_link": "https://knigogo.com.ua/knigi/neznajoma/"
+    },
+    {
+        "book_name": "Хоча лежачого й не б’ють",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/hocha-lezhachogo-j-ne-b-yut/"
+    },
+    {
+        "book_name": "Галайда",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/galajda/"
+    },
+    {
+        "book_name": "Туман, туман долиною",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/tuman-tuman-dolynoyu/"
+    },
+    {
+        "book_name": "Хіба самому написать",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/hiba-samomu-napysat/"
+    },
+    {
+        "book_name": "Батько Горіо",
+        "book_author": "Оноре де Бальзак",
+        "book_link": "https://knigogo.com.ua/knigi/batko-gorio/"
+    },
+    {
+        "book_name": "На Великдень, на соломі",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/na-velykden-na-solomi/"
+    },
+    {
+        "book_name": "На вічну пам’ять Котляре...",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/na-vichnu-pam-yat-kotlyarevskomu/"
+    },
+    {
+        "book_name": "Тече вода з-під явора",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/teche-voda-z-pid-yavora/"
+    },
+    {
+        "book_name": "Гидке каченя",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/gydke-kachenya/"
+    },
+    {
+        "book_name": "Молитва",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/molytva/"
+    },
+    {
+        "book_name": "Скорочено Міщанин-шляхтич",
+        "book_author": "Жан Батист Мольєр",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-mishhanyn-shlyahtych/"
+    },
+    {
+        "book_name": "Ми вкупочці колись росли",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/my-vkupochtsi-kolys-rosly/"
+    },
+    {
+        "book_name": "Лічу в неволі дні і ночі",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/lichu-v-nevoli-dni-i-nochi/"
+    },
+    {
+        "book_name": "І виріс я на чужині",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/i-vyris-ya-na-chuzhyni/"
+    },
+    {
+        "book_name": "Москалева криниця",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/moskaleva-krynytsya/"
+    },
+    {
+        "book_name": "Сон (На панщині пшеницю ...",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/son-na-panshhyni-pshenytsyu-zhala/"
+    },
+    {
+        "book_name": "Ікс плюс Ігрек",
+        "book_author": "Василь Симоненко",
+        "book_link": "https://knigogo.com.ua/knigi/iks-plyus-igrek/"
+    },
+    {
+        "book_name": "Лебідь, Щука і Рак",
+        "book_author": "Леонід Глібов",
+        "book_link": "https://knigogo.com.ua/knigi/lebid-shhuka-i-rak/"
+    },
+    {
+        "book_name": "Синя борода",
+        "book_author": "Шарль Перро",
+        "book_link": "https://knigogo.com.ua/knigi/synya-boroda/"
+    },
+    {
+        "book_name": "Скорочено Федько-халамидник",
+        "book_author": "Володимир Винниченко",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-fedko-halamydnyk/"
+    },
+    {
+        "book_name": "Реквієм",
+        "book_author": "Анна Ахматова",
+        "book_link": "https://knigogo.com.ua/knigi/rekviyem/"
+    },
+    {
+        "book_name": "Скорочено Герой нашого часу",
+        "book_author": "Михайло Лермонтов",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-geroj-nashogo-chasu/"
+    },
+    {
+        "book_name": "Принцеса на горошині",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/pryntsesa-na-goroshyni/"
+    },
+    {
+        "book_name": "Вишневий сад",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/vyshnevyj-sad/"
+    },
+    {
+        "book_name": "Скорочено Дівчина з ведм...",
+        "book_author": "Віктор Петров (Домонтович)",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-divchyna-z-vedmedykom/"
+    },
+    {
+        "book_name": "Скорочено Портрет Доріан...",
+        "book_author": "Оскар Уайльд",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-portret-doriana-greya/"
+    },
+    {
+        "book_name": "Казка про Оха-чародія",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/kazka-pro-oha-charodiya/"
+    },
+    {
+        "book_name": "Кресало",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/kresalo/"
+    },
+    {
+        "book_name": "Скорочено Гранатовий бра...",
+        "book_author": "Олександр Купрін",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-granatovyj-braslet/"
+    },
+    {
+        "book_name": "Скорочено Хамелеон",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-hameleon/"
+    },
+    {
+        "book_name": "Палата №6",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/palata-6/"
+    },
+    {
+        "book_name": "Три Товстуни",
+        "book_author": "Юрій Олеша",
+        "book_link": "https://knigogo.com.ua/knigi/try-tovstuny/"
+    },
+    {
+        "book_name": "Скорочено Гамлет",
+        "book_author": "Вільям Шекспір",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-gamlet/"
+    },
+    {
+        "book_name": "Велесова книга",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/velesova-knyga/"
+    },
+    {
+        "book_name": "Роман про Трістана та Із...",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/roman-pro-tristana-ta-izoldu/"
+    },
+    {
+        "book_name": "Скорочено Наталка Полтавка",
+        "book_author": "Іван Котляревський",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-natalka-poltavka/"
+    },
+    {
+        "book_name": "Зловмисник",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/zlovmysnyk/"
+    },
+    {
+        "book_name": "Гімн",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/gimn/"
+    },
+    {
+        "book_name": "Скорочено Пурпурові вітр...",
+        "book_author": "Олександр Грін",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-purpurovi-vitryla/"
+    },
+    {
+        "book_name": "Діти підземелля",
+        "book_author": "Володимир Короленко",
+        "book_link": "https://knigogo.com.ua/knigi/dity-pidzemellya/"
+    },
+    {
+        "book_name": "Московіада",
+        "book_author": "Юрій Андрухович",
+        "book_link": "https://knigogo.com.ua/knigi/moskoviada/"
+    },
+    {
+        "book_name": "Човен",
+        "book_author": "Євген Гребінка",
+        "book_link": "https://knigogo.com.ua/knigi/choven/"
+    },
+    {
+        "book_name": "Гей, нові Колумби й Маге...",
+        "book_author": "Василь Симоненко",
+        "book_link": "https://knigogo.com.ua/knigi/gej-novi-kolumby-j-magellany/"
+    },
+    {
+        "book_name": "Солодкий світ!..",
+        "book_author": "Максим Рильський",
+        "book_link": "https://knigogo.com.ua/knigi/solodkyj-svit/"
+    },
+    {
+        "book_name": "Любов",
+        "book_author": "Роберт Бернс",
+        "book_link": "https://knigogo.com.ua/knigi/lyubov/"
+    },
+    {
+        "book_name": "Кухлик",
+        "book_author": "Павло Глазовий",
+        "book_link": "https://knigogo.com.ua/knigi/kuhlyk/"
+    },
+    {
+        "book_name": "Мій ангел такий маленький",
+        "book_author": "Галина Кирпа",
+        "book_link": "https://knigogo.com.ua/knigi/mij-angel-takyj-malenkyj/"
+    },
+    {
+        "book_name": "Скорочено Божественна ко...",
+        "book_author": "Данте Аліг'єрі",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-bozhestvenna-komediya/"
+    },
+    {
+        "book_name": "Найважча роль",
+        "book_author": "Павло Глазовий",
+        "book_link": "https://knigogo.com.ua/knigi/najvazhcha-rol/"
+    },
+    {
+        "book_name": "Чари ночі",
+        "book_author": "Олександр Олесь",
+        "book_link": "https://knigogo.com.ua/knigi/chary-nochi/"
+    },
+    {
+        "book_name": "Лускунчик і Мишачий король",
+        "book_author": "Ернст Теодор Амадей Гофман",
+        "book_link": "https://knigogo.com.ua/knigi/luskunchyk-i-myshachyj-korol/"
+    },
+    {
+        "book_name": "Осінь",
+        "book_author": "Володимир Сосюра",
+        "book_link": "https://knigogo.com.ua/knigi/osin/"
+    },
+    {
+        "book_name": "Скорочено Гобсек",
+        "book_author": "Оноре де Бальзак",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-gobsek/"
+    },
+    {
+        "book_name": "Наша мова",
+        "book_author": "Василь Голобородько",
+        "book_link": "https://knigogo.com.ua/knigi/nasha-mova/"
+    },
+    {
+        "book_name": "Тиша морська",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/tysha-morska/"
+    },
+    {
+        "book_name": "Я, робот",
+        "book_author": "Айзек Азімов",
+        "book_link": "https://knigogo.com.ua/knigi/ya-robot/"
+    },
+    {
+        "book_name": "Скорочено Пеппі Довгапан...",
+        "book_author": "Астрід Ліндгрен",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-peppi-dovgapanchoha/"
+    },
+    {
+        "book_name": "Кіт у чоботях",
+        "book_author": "Шарль Перро",
+        "book_link": "https://knigogo.com.ua/knigi/kit-u-chobotyah-sharl-perro/"
+    },
+    {
+        "book_name": "Київські прохачі",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/kyyivski-prohachi/"
+    },
+    {
+        "book_name": "Горпина",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/gorpyna/"
+    },
+    {
+        "book_name": "Поміж ворогами",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/pomizh-vorogamy/"
+    },
+    {
+        "book_name": "Гастролі",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/gastroli/"
+    },
+    {
+        "book_name": "Із днів журби",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/iz-dniv-zhurby/"
+    },
+    {
+        "book_name": "Скорочено Убити пересміш...",
+        "book_author": "Гарпер Лі",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-ubyty-peresmishnyka/"
+    },
+    {
+        "book_name": "Думи і мрії",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/dumy-i-mriyi/"
+    },
+    {
+        "book_name": "Євшан-зілля",
+        "book_author": "Микола Вороний",
+        "book_link": "https://knigogo.com.ua/knigi/yevshan-zillya/"
+    },
+    {
+        "book_name": "Дев’ять братiв i д...",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/dev-yat-brativ-i-desyata-sestrytsya-galya/"
+    },
+    {
+        "book_name": "Сокільська гора",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/sokilska-gora/"
+    },
+    {
+        "book_name": "Конрад, або Дитина з бля...",
+        "book_author": "Крістіна Нестлінґер",
+        "book_link": "https://knigogo.com.ua/knigi/konrad-abo-dytyna-z-blyashanky/"
+    },
+    {
+        "book_name": "Неоднаковими стежками",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/neodnakovymy-stezhkamy/"
+    },
+    {
+        "book_name": "Хрестини",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/hrestyny/"
+    },
+    {
+        "book_name": "Давнє й нове",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/davnye-j-nove/"
+    },
+    {
+        "book_name": "Старі гультяї",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/stari-gultyayi/"
+    },
+    {
+        "book_name": "Журнал",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/zhurnal/"
+    },
+    {
+        "book_name": "Не бував ти у наших краях!",
+        "book_author": "Павло Тичина",
+        "book_link": "https://knigogo.com.ua/knigi/ne-buvav-ty-u-nashyh-krayah/"
+    },
+    {
+        "book_name": "На гастролях в Микитянах",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/na-gastrolyah-v-mykytyanah/"
+    },
+    {
+        "book_name": "Голова Ході",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/golova-hodi/"
+    },
+    {
+        "book_name": "Скорочено Матінка Кураж ...",
+        "book_author": "Бертольт Брехт",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-matinka-kurazh-ta-yiyi-dity/"
+    },
+    {
+        "book_name": "Іліада",
+        "book_author": "Гомер",
+        "book_link": "https://knigogo.com.ua/knigi/iliada/"
+    },
+    {
+        "book_name": "Захочеш і будеш",
+        "book_author": "Олег Ольжич",
+        "book_link": "https://knigogo.com.ua/knigi/zahochesh-i-budesh/"
+    },
+    {
+        "book_name": "Король Лір і його дочки",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/korol-lir-i-jogo-dochky/"
+    },
+    {
+        "book_name": "Котик і півник",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/kotyk-i-pivnyk/"
+    },
+    {
+        "book_name": "Потрапити в сад",
+        "book_author": "Галина Пагутяк",
+        "book_link": "https://knigogo.com.ua/knigi/potrapyty-v-sad/"
+    },
+    {
+        "book_name": "Місто",
+        "book_author": "Валер'ян Підмогильний",
+        "book_link": "https://knigogo.com.ua/knigi/misto-valer-yan-pidmogylnyj/"
+    },
+    {
+        "book_name": "Хуха-Моховинка",
+        "book_author": "Василь Королів-Старий",
+        "book_link": "https://knigogo.com.ua/knigi/huha-mohovynka/"
+    },
+    {
+        "book_name": "Тополя",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/topolya/"
+    },
+    {
+        "book_name": "Гамлет",
+        "book_author": "Вільям Шекспір",
+        "book_link": "https://knigogo.com.ua/knigi/gamlet/"
+    },
+    {
+        "book_name": "Весняна гроза",
+        "book_author": "Федір Тютчев",
+        "book_link": "https://knigogo.com.ua/knigi/vesnyana-groza/"
+    },
+    {
+        "book_name": "Сон (“У всякого св...",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/son-u-vsyakogo-svoya-dolya/"
+    },
+    {
+        "book_name": "Кольорові миші",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/kolorovi-myshi/"
+    },
+    {
+        "book_name": "Сто років самотності",
+        "book_author": "Габріель Гарсіа Маркес",
+        "book_link": "https://knigogo.com.ua/knigi/sto-rokiv-samotnosti/"
+    },
+    {
+        "book_name": "Зима-чарівниця",
+        "book_author": "Туве Янссон",
+        "book_link": "https://knigogo.com.ua/knigi/zyma-charivnytsya/"
+    },
+    {
+        "book_name": "Джельсоміно в Країні бре...",
+        "book_author": "Джанні Родарі",
+        "book_link": "https://knigogo.com.ua/knigi/dzhelsomino-v-krayini-brehuniv/"
+    },
+    {
+        "book_name": "Блакить мою душу обвіяла",
+        "book_author": "Павло Тичина",
+        "book_link": "https://knigogo.com.ua/knigi/blakyt-moyu-dushu-obviyala/"
+    },
+    {
+        "book_name": "Скорочено Ляльковий дім",
+        "book_author": "Генрік Ібсен",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-lyalkovyj-dim/"
+    },
+    {
+        "book_name": "Хайку",
+        "book_author": "Мацуо Басьо",
+        "book_link": "https://knigogo.com.ua/knigi/hajku/"
+    },
+    {
+        "book_name": "Білий кінь Шептало",
+        "book_author": "Володимир Дрозд",
+        "book_link": "https://knigogo.com.ua/knigi/bilyj-kin-sheptalo/"
+    },
+    {
+        "book_name": "Чорний обеліск",
+        "book_author": "Еріх Марія Ремарк",
+        "book_link": "https://knigogo.com.ua/knigi/chornyj-obelisk/"
+    },
+    {
+        "book_name": "Інфанта",
+        "book_author": "Микола Вороний",
+        "book_link": "https://knigogo.com.ua/knigi/infanta/"
+    },
+    {
+        "book_name": "Моя автобіографія",
+        "book_author": "Остап Вишня",
+        "book_link": "https://knigogo.com.ua/knigi/moya-avtobiografiya/"
+    },
+    {
+        "book_name": "Роксолана",
+        "book_author": "Павло Загребельний",
+        "book_link": "https://knigogo.com.ua/knigi/roksolana/"
+    },
+    {
+        "book_name": "Три мушкетери",
+        "book_author": "Олександр Дюма",
+        "book_link": "https://knigogo.com.ua/knigi/try-mushketery/"
+    },
+    {
+        "book_name": "Скорочено Мина Мазайло",
+        "book_author": "Микола Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-myna-mazajlo/"
+    },
+    {
+        "book_name": "Давня весна",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/davnya-vesna/"
+    },
+    {
+        "book_name": "Contra spem spero! (Без ...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/contra-spem-spero/"
+    },
+    {
+        "book_name": "Скарб",
+        "book_author": "Олекса Стороженко",
+        "book_link": "https://knigogo.com.ua/knigi/skarb/"
+    },
+    {
+        "book_name": "Коза-дереза",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/koza-dereza/"
+    },
+    {
+        "book_name": "Руслан і Людмила",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/ruslan-i-lyudmyla/"
+    },
+    {
+        "book_name": "Вересовий трунок",
+        "book_author": "Роберт Луїс Стівенсон",
+        "book_link": "https://knigogo.com.ua/knigi/veresovyj-trunok/"
+    },
+    {
+        "book_name": "Скорочено Пригоди Тома С...",
+        "book_author": "Марк Твен",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-prygody-toma-sojyera/"
+    },
+    {
+        "book_name": "Скорочено 1984",
+        "book_author": "Джордж Орвелл",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-1984/"
+    },
+    {
+        "book_name": "Скорочено Енеїда",
+        "book_author": "Іван Котляревський",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-eneyida/"
+    },
+    {
+        "book_name": "Стояла я і слухала весну...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/stoyala-ya-i-sluhala-vesnu/"
+    },
+    {
+        "book_name": "Еволюція",
+        "book_author": "Павло Глазовий",
+        "book_link": "https://knigogo.com.ua/knigi/evolyutsiya/"
+    },
+    {
+        "book_name": "Віють вітри, віють буйні",
+        "book_author": "Маруся Чурай",
+        "book_link": "https://knigogo.com.ua/knigi/viyut-vitry-viyut-bujni/"
+    },
+    {
+        "book_name": "Ой не ходи, Грицю",
+        "book_author": "Маруся Чурай",
+        "book_link": "https://knigogo.com.ua/knigi/oj-ne-hody-grytsyu/"
+    },
+    {
+        "book_name": "Муха й Бджола",
+        "book_author": "Леонід Глібов",
+        "book_link": "https://knigogo.com.ua/knigi/muha-j-bdzhola/"
+    },
+    {
+        "book_name": "Весна",
+        "book_author": "Афанасій Фет",
+        "book_link": "https://knigogo.com.ua/knigi/vesna/"
+    },
+    {
+        "book_name": "Радість",
+        "book_author": "Олена Теліга",
+        "book_link": "https://knigogo.com.ua/knigi/radist/"
+    },
+    {
+        "book_name": "Борис Годунов",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/borys-godunov/"
+    },
+    {
+        "book_name": "Вчись у природи творчого...",
+        "book_author": "Євген Плужник",
+        "book_link": "https://knigogo.com.ua/knigi/vchys-u-pryrody-tvorchogo-spokoyu/"
+    },
+    {
+        "book_name": "Дама з собачкою",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/dama-z-sobachkoyu/"
+    },
+    {
+        "book_name": "Заморські гості",
+        "book_author": "Павло Глазовий",
+        "book_link": "https://knigogo.com.ua/knigi/zamorski-gosti/"
+    },
+    {
+        "book_name": "Мідний вершник",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/midnyj-vershnyk/"
+    },
+    {
+        "book_name": "Душечка",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/dushechka/"
+    },
+    {
+        "book_name": "Скорочено Одіссея",
+        "book_author": "Гомер",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-odisseya/"
+    },
+    {
+        "book_name": "Злоначинающих спини…",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/zlonachynayushhyh-spyny/"
+    },
+    {
+        "book_name": "Якби ви знали, паничі",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/yakby-vy-znaly-panychi/"
+    },
+    {
+        "book_name": "У нашім раї на землі",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/u-nashim-rayi-na-zemli/"
+    },
+    {
+        "book_name": "Парадокс",
+        "book_author": "Володимир Короленко",
+        "book_link": "https://knigogo.com.ua/knigi/paradoks/"
+    },
+    {
+        "book_name": "Арап Петра Великого",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/arap-petra-velykogo/"
+    },
+    {
+        "book_name": "Про назву концтабору Бух...",
+        "book_author": "Альфред Маргул-Шпербер",
+        "book_link": "https://knigogo.com.ua/knigi/pro-nazvu-kontstaboru-buhenvald/"
+    },
+    {
+        "book_name": "Лист із полону",
+        "book_author": "Константи Ільдефонс Галчинський",
+        "book_link": "https://knigogo.com.ua/knigi/lyst-iz-polonu/"
+    },
+    {
+        "book_name": "Асоціації",
+        "book_author": "Ігор Павлюк",
+        "book_link": "https://knigogo.com.ua/knigi/asotsiatsiyi/"
+    },
+    {
+        "book_name": "Скорочено Наймичка",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-najmychka/"
+    },
+    {
+        "book_name": "Зимовий вечір",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/zymovyj-vechir/"
+    },
+    {
+        "book_name": "Олеся",
+        "book_author": "Олександр Купрін",
+        "book_link": "https://knigogo.com.ua/knigi/olesya/"
+    },
+    {
+        "book_name": "Добре вмирати тому…",
+        "book_author": "Тіртей",
+        "book_link": "https://knigogo.com.ua/knigi/dobre-vmyraty-tomu/"
+    },
+    {
+        "book_name": "Барвношатна владарко, Аф...",
+        "book_author": "Сапфо",
+        "book_link": "https://knigogo.com.ua/knigi/barvnoshatna-vladarko-afrodito/"
+    },
+    {
+        "book_name": "І не дивуй, що я прийду ...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/i-ne-dyvuj-shho-ya-pryjdu-znenatska/"
+    },
+    {
+        "book_name": "А затишок співає, мов си...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/a-zatyshok-spivaye-mov-syrena/"
+    },
+    {
+        "book_name": "Виходжу в сад, він чорни...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/vyhodzhu-v-sad-vin-chornyj-i-hudyj/"
+    },
+    {
+        "book_name": "Двори стоять у хуртовині...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/dvory-stoyat-u-hurtovyni-ajstr/"
+    },
+    {
+        "book_name": "Затінок, сутінок, день з...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/zatinok-sutinok-den-zolotyj/"
+    },
+    {
+        "book_name": "Страшні слова, коли вони...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/strashni-slova-koly-vony-movchat/"
+    },
+    {
+        "book_name": "Літо краснеє минуло",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/lito-krasneye-mynulo/"
+    },
+    {
+        "book_name": "Конвалія",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/konvaliya/"
+    },
+    {
+        "book_name": "Fiat nox",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/fiat-nox/"
+    },
+    {
+        "book_name": "До мого фортепіано",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/do-mogo-fortepiano/"
+    },
+    {
+        "book_name": "Веснянка",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/vesnyanka/"
+    },
+    {
+        "book_name": "Чекаю дня, коли собі скажу",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/chekayu-dnya-koly-sobi-skazhu/"
+    },
+    {
+        "book_name": "До Мельпомени (“Мі...",
+        "book_author": "Горацій",
+        "book_link": "https://knigogo.com.ua/knigi/do-melpomeny-mij-pam-yatnyk-stoyit/"
+    },
+    {
+        "book_name": "Вже сонечко в море сіда",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/vzhe-sonechko-v-more-sida/"
+    },
+    {
+        "book_name": "Вечірня година",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/vechirnya-godyna/"
+    },
+    {
+        "book_name": "Сім струн",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/sim-strun/"
+    },
+    {
+        "book_name": "Печаль на яшмовому ґанку",
+        "book_author": "Лі Бо",
+        "book_link": "https://knigogo.com.ua/knigi/pechal-na-yashmovomu-ganku/"
+    },
+    {
+        "book_name": "Призахідне сонце навіює ...",
+        "book_author": "Лі Бо",
+        "book_link": "https://knigogo.com.ua/knigi/pryzahidne-sontse/"
+    },
+    {
+        "book_name": "Двобій Ахілла і Гектора",
+        "book_author": "Гомер",
+        "book_link": "https://knigogo.com.ua/knigi/dvobij-ahilla-i-gektora/"
+    },
+    {
+        "book_name": "Скіфська баба",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/skifska-baba/"
+    },
+    {
+        "book_name": "Доля",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/dolya-kostenko/"
+    },
+    {
+        "book_name": "Мамо, іде вже зима",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/mamo-ide-vzhe-zyma/"
+    },
+    {
+        "book_name": "Тішся, дитино, поки ще м...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/tishsya-dytyno-poky-shhe-malenka/"
+    },
+    {
+        "book_name": "Спинюся я і довго буду с...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/spynyusya-ya-i-dovgo-budu-sluhat/"
+    },
+    {
+        "book_name": "Все, все покинуть, до те...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/vse-vse-pokynut-do-tebe-polynut/"
+    },
+    {
+        "book_name": "Пелюстки старовинного ро...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/pelyustky-starovynnogo-romansu/"
+    },
+    {
+        "book_name": "Пишіть листи і надсилайт...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/pyshit-lysty-i-nadsylajte-vchasno/"
+    },
+    {
+        "book_name": "Розкажу тобі думку таємну",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/rozkazhu-tobi-dumku-tayemnu/"
+    },
+    {
+        "book_name": "Квіток, квіток, як можна...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/kvitok-kvitok-yak-mozhna-bilshe-kvitiv/"
+    },
+    {
+        "book_name": "І жах, і кров, і смерть,...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/i-zhah-i-krov-i-smert-i-vidchaj/"
+    },
+    {
+        "book_name": "Вже почалось, мабуть, ма...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/vzhe-pochalos-mabut-majbutnye/"
+    },
+    {
+        "book_name": "Грішниця",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/grishnytsya-ukrainka/"
+    },
+    {
+        "book_name": "Рукавичка",
+        "book_author": "Фрідріх Шиллер",
+        "book_link": "https://knigogo.com.ua/knigi/rukavychka-shiller/"
+    },
+    {
+        "book_name": "Життя іде і все без коре...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/zhyttya-ide-i-vse-bez-korektur/"
+    },
+    {
+        "book_name": "Пурпурові вітрила (Черво...",
+        "book_author": "Олександр Грін",
+        "book_link": "https://knigogo.com.ua/knigi/purpurovi-vitryla-chervoni-vitryla/"
+    },
+    {
+        "book_name": "На зеленому горбочку",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/na-zelenomu-gorbochku/"
+    },
+    {
+        "book_name": "Світлий сонет",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/svitlyj-sonet/"
+    },
+    {
+        "book_name": "Не співайте мені сеї пісні",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/ne-spivajte-meni-seyi-pisni/"
+    },
+    {
+        "book_name": "Живцем поховані",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/zhyvtsem-pohovani/"
+    },
+    {
+        "book_name": "Семен Палій. Герой Украї...",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/semen-palij-geroj-ukrayinskogo-naroda/"
+    },
+    {
+        "book_name": "Отець Андрій",
+        "book_author": "Марко Вовчок",
+        "book_link": "https://knigogo.com.ua/knigi/otets-andrij/"
+    },
+    {
+        "book_name": "Біда бабі Парасці Гришисі",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/bida-babi-parastsi-gryshysi/"
+    },
+    {
+        "book_name": "Над Чорним морем",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/nad-chornym-morem/"
+    },
+    {
+        "book_name": "Скривджені й нескривджені",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/skryvdzheni-j-neskryvdzheni/"
+    },
+    {
+        "book_name": "Джури козака Швайки",
+        "book_author": "Володимир Рутківський",
+        "book_link": "https://knigogo.com.ua/knigi/dzhury-kozaka-shvajky/"
+    },
+    {
+        "book_name": "Тім Талер, або Проданий ...",
+        "book_author": "Джеймс Крюс",
+        "book_link": "https://knigogo.com.ua/knigi/tim-taler-abo-prodanyj-smih/"
+    },
+    {
+        "book_name": "Іван Вишенський",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/ivan-vyshenskyj/"
+    },
+    {
+        "book_name": "Ніч перед боєм",
+        "book_author": "Олександр Довженко",
+        "book_link": "https://knigogo.com.ua/knigi/nich-pered-boyem/"
+    },
+    {
+        "book_name": "Тореадори з Васюківки (2...",
+        "book_author": "Всеволод Нестайко",
+        "book_link": "https://knigogo.com.ua/knigi/toreadory-z-vasyukivky-2004/"
+    },
+    {
+        "book_name": "Дві милі",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/dvi-myli/"
+    },
+    {
+        "book_name": "Українські гетьмани Брух...",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/ukrayinski-getmany-bruhovetskyj-i-teterya/"
+    },
+    {
+        "book_name": "Вибрані оповідання",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/vybrani-opovidannya/"
+    },
+    {
+        "book_name": "Скорочено Митькозавр із ...",
+        "book_author": "Ярослав Стельмах",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-mytkozavr-iz-yurkivky/"
+    },
+    {
+        "book_name": "Скорочено Маленький принц",
+        "book_author": "Антуан де Сент-Екзюпері",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-malenkyj-prynts/"
+    },
+    {
+        "book_name": "Вибрані поезії",
+        "book_author": "Микола Хвильовий",
+        "book_link": "https://knigogo.com.ua/knigi/vybrani-poeziyi/"
+    },
+    {
+        "book_name": "Катерина",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/kateryna/"
+    },
+    {
+        "book_name": "Не той став",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/ne-toj-stav/"
+    },
+    {
+        "book_name": "Скорочено Синій птах",
+        "book_author": "Моріс Метерлінк",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-synij-ptah/"
+    },
+    {
+        "book_name": "Якось-то йдучи уночі",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/yakos-to-jduchy-unochi/"
+    },
+    {
+        "book_name": "Манфред",
+        "book_author": "Джордж Гордон Байрон",
+        "book_link": "https://knigogo.com.ua/knigi/manfred/"
+    },
+    {
+        "book_name": "Осляча шкура",
+        "book_author": "Шарль Перро",
+        "book_link": "https://knigogo.com.ua/knigi/oslyacha-shkura/"
+    },
+    {
+        "book_name": "Марку Вовчку",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/marku-vovchku/"
+    },
+    {
+        "book_name": "Скорочено Пігмаліон",
+        "book_author": "Джордж Бернард Шоу",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-pigmalion/"
+    },
+    {
+        "book_name": "Будденброки",
+        "book_author": "Томас Манн",
+        "book_link": "https://knigogo.com.ua/knigi/buddenbroky/"
+    },
+    {
+        "book_name": "Зелена Євангелія",
+        "book_author": "Богдан-Ігор Антонич",
+        "book_link": "https://knigogo.com.ua/knigi/zelena-yevangeliya/"
+    },
+    {
+        "book_name": "Українське Альфреско",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/ukrayinske-alfresko/"
+    },
+    {
+        "book_name": "Давидові псалми",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/davydovi-psalmy/"
+    },
+    {
+        "book_name": "Ликері",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/lykeri/"
+    },
+    {
+        "book_name": "Скорочено Берег любові",
+        "book_author": "Олесь Гончар",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-bereg-lyubovi/"
+    },
+    {
+        "book_name": "О капітане!",
+        "book_author": "Волт Вітмен",
+        "book_link": "https://knigogo.com.ua/knigi/o-kapitane/"
+    },
+    {
+        "book_name": "Конфедерати",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/konfederaty/"
+    },
+    {
+        "book_name": "Що записано в книгу життя",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/shho-zapysano-v-knygu-zhyttya/"
+    },
+    {
+        "book_name": "Кандід, або Оптимізм",
+        "book_author": "Вольтер",
+        "book_link": "https://knigogo.com.ua/knigi/kandid-abo-optymizm/"
+    },
+    {
+        "book_name": "Діоген",
+        "book_author": "Іван Сенченко",
+        "book_link": "https://knigogo.com.ua/knigi/diogen/"
+    },
+    {
+        "book_name": "Страшна помста",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/strashna-pomsta/"
+    },
+    {
+        "book_name": "Скорочено Ялинка",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-yalynka/"
+    },
+    {
+        "book_name": "Сонет 130",
+        "book_author": "Вільям Шекспір",
+        "book_link": "https://knigogo.com.ua/knigi/sonet-130/"
+    },
+    {
+        "book_name": "Скорочено Вогник далеко ...",
+        "book_author": "Григір Тютюнник",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-vognyk-daleko-v-stepu/"
+    },
+    {
+        "book_name": "Із янголом на плечі",
+        "book_author": "Іван Малкович",
+        "book_link": "https://knigogo.com.ua/knigi/iz-yangolom-na-plechi/"
+    },
+    {
+        "book_name": "Поєдинок Робіна Гуда з Г...",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/poyedynok-robina-guda/"
+    },
+    {
+        "book_name": "Листівки з видами міст",
+        "book_author": "Джанні Родарі",
+        "book_link": "https://knigogo.com.ua/knigi/lystivky-z-vydamy-mist/"
+    },
+    {
+        "book_name": "Ніч… а човен — як ...",
+        "book_author": "Євген Плужник",
+        "book_link": "https://knigogo.com.ua/knigi/nich-a-choven-yak-sribnyj-ptah/"
+    },
+    {
+        "book_name": "Скорочено Майстер і Марг...",
+        "book_author": "Михайло Булгаков",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-majster-i-margaryta/"
+    },
+    {
+        "book_name": "Химерний маленький",
+        "book_author": "Леонід Глібов",
+        "book_link": "https://knigogo.com.ua/knigi/hymernyj-malenkyj/"
+    },
+    {
+        "book_name": "Матінка Кураж та її діти",
+        "book_author": "Бертольт Брехт",
+        "book_link": "https://knigogo.com.ua/knigi/matinka-kurazh-ta-yiyi-dity/"
+    },
+    {
+        "book_name": "Доміно",
+        "book_author": "Ернест Сетон-Томпсон",
+        "book_link": "https://knigogo.com.ua/knigi/domino/"
+    },
+    {
+        "book_name": "Дощ (“Благодатний,...",
+        "book_author": "Максим Рильський",
+        "book_link": "https://knigogo.com.ua/knigi/doshh-blagodatnyj-dovgozhdanyj/"
+    },
+    {
+        "book_name": "Красуня",
+        "book_author": "Іван Бунін",
+        "book_link": "https://knigogo.com.ua/knigi/krasunya/"
+    },
+    {
+        "book_name": "Скорочено Лісова пісня",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-lisova-pisnya/"
+    },
+    {
+        "book_name": "Блискавка",
+        "book_author": "Ігор Калинець",
+        "book_link": "https://knigogo.com.ua/knigi/blyskavka/"
+    },
+    {
+        "book_name": "Сад божественних пісень",
+        "book_author": "Григорій Сковорода",
+        "book_link": "https://knigogo.com.ua/knigi/sad-bozhestvennyh-pisen/"
+    },
+    {
+        "book_name": "Криничка",
+        "book_author": "Ігор Калинець",
+        "book_link": "https://knigogo.com.ua/knigi/krynychka/"
+    },
+    {
+        "book_name": "Скорочено Різдвяна пісня...",
+        "book_author": "Чарльз Діккенс",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-rizdvyana-pisnya-v-prozi/"
+    },
+    {
+        "book_name": "Дощ полив",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/doshh-polyv/"
+    },
+    {
+        "book_name": "Книги в червоній палітурці",
+        "book_author": "Марина Цвєтаєва",
+        "book_link": "https://knigogo.com.ua/knigi/knygy-v-chervonij-paliturtsi/"
+    },
+    {
+        "book_name": "Скорочено Іліада",
+        "book_author": "Гомер",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-iliada/"
+    },
+    {
+        "book_name": "Похвала",
+        "book_author": "Павло Глазовий",
+        "book_link": "https://knigogo.com.ua/knigi/pohvala/"
+    },
+    {
+        "book_name": "Про коника та цвіркуна",
+        "book_author": "Джон Кітс",
+        "book_link": "https://knigogo.com.ua/knigi/pro-konyka-ta-tsvirkuna/"
+    },
+    {
+        "book_name": "Вождь червоношкірих",
+        "book_author": "О. Генрі",
+        "book_link": "https://knigogo.com.ua/knigi/vozhd-chervonoshkiryh/"
+    },
+    {
+        "book_name": "Зацвіла в долині",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/zatsvila-v-dolyni/"
+    },
+    {
+        "book_name": "Золоте теля",
+        "book_author": "Ілля Ільф і Євген Петров",
+        "book_link": "https://knigogo.com.ua/knigi/zolote-telya/"
+    },
+    {
+        "book_name": "Скорочено Ідіот",
+        "book_author": "Федір Достоєвський",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-idiot/"
+    },
+    {
+        "book_name": "Нащо мені женитися",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/nashho-meni-zhenytysya/"
+    },
+    {
+        "book_name": "Дружок",
+        "book_author": "Микола Носов",
+        "book_link": "https://knigogo.com.ua/knigi/druzhok/"
+    },
+    {
+        "book_name": "Чума",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/chuma/"
+    },
+    {
+        "book_name": "Дон Жуан",
+        "book_author": "Жан Батист Мольєр",
+        "book_link": "https://knigogo.com.ua/knigi/don-zhuan-moler/"
+    },
+    {
+        "book_name": "Перебендя",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/perebendya/"
+    },
+    {
+        "book_name": "Не тополю високую",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/ne-topolyu-vysokuyu/"
+    },
+    {
+        "book_name": "Скорочено Маруся",
+        "book_author": "Григорій Квітка-Основ’яненко",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-marusya/"
+    },
+    {
+        "book_name": "Слоненя",
+        "book_author": "Редьярд Кіплінг",
+        "book_link": "https://knigogo.com.ua/knigi/slonenya/"
+    },
+    {
+        "book_name": "Семеро підземних королів",
+        "book_author": "Олександр Волков",
+        "book_link": "https://knigogo.com.ua/knigi/semero-pidzemnyh-koroliv/"
+    },
+    {
+        "book_name": "Чи не покинуть нам, небого",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/chy-ne-pokynut-nam-nebogo/"
+    },
+    {
+        "book_name": "Інтродукція",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/introduktsiya/"
+    },
+    {
+        "book_name": "Сонет 66 (збірка)",
+        "book_author": "Вільям Шекспір",
+        "book_link": "https://knigogo.com.ua/knigi/sonet-66-zbirka/"
+    },
+    {
+        "book_name": "Ой по горі роман цвіте",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/oj-po-gori-roman-tsvite/"
+    },
+    {
+        "book_name": "Скорочено Останній листок",
+        "book_author": "О. Генрі",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-ostannij-lystok/"
+    },
+    {
+        "book_name": "Не так тії вороги",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/ne-tak-tiyi-vorogy/"
+    },
+    {
+        "book_name": "Ой люлі, люлі, моя дитино",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/oj-lyuli-lyuli-moya-dytyno/"
+    },
+    {
+        "book_name": "Мій шлях",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/mij-shlyah/"
+    },
+    {
+        "book_name": "Коректна ода ворогам",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/korektna-oda-vorogam/"
+    },
+    {
+        "book_name": "Україно, плачу слізьми н...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/ukrayino-plachu-slizmy-nad-toboyu/"
+    },
+    {
+        "book_name": "Ангел помсти",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/angel-pomsty/"
+    },
+    {
+        "book_name": "Біль єдиної зброї",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/bil-yedynoyi-zbroyi/"
+    },
+    {
+        "book_name": "Хай буде легко",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/haj-bude-legko/"
+    },
+    {
+        "book_name": "Надія",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/nadiya/"
+    },
+    {
+        "book_name": "Хотіла б я тебе, мов плю...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/hotila-b-ya-tebe-mov-plyushh-obnyaty/"
+    },
+    {
+        "book_name": "Поет під час облоги",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/poet-pid-chas-oblogy/"
+    },
+    {
+        "book_name": "Сон літньої ночі",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/son-litnoyi-nochi/"
+    },
+    {
+        "book_name": "Мій перший вірш написани...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/mij-pershyj-virsh-napysanyj-v-okopi/"
+    },
+    {
+        "book_name": "Тут обелісків ціла рота",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/tut-obeliskiv-tsila-rota/"
+    },
+    {
+        "book_name": "І я не я, і ти мені не ти",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/i-ya-ne-ya-i-ty-meni-ne-ty/"
+    },
+    {
+        "book_name": "Нічка тиха і темна була",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/nichka-tyha-i-temna-bula/"
+    },
+    {
+        "book_name": "Осінній день",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/osinnij-den/"
+    },
+    {
+        "book_name": "Я кину все, я вірю в кіл...",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/ya-kynu-vse-ya-viryu-v-kilometry/"
+    },
+    {
+        "book_name": "Сумні елегії",
+        "book_author": "Овідій",
+        "book_link": "https://knigogo.com.ua/knigi/sumni-elegiyi/"
+    },
+    {
+        "book_name": "Псалом 16",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/psalom-16/"
+    },
+    {
+        "book_name": "Забуті слова",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/zabuti-slova/"
+    },
+    {
+        "book_name": "Скрізь плач, і стогін, і...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/skriz-plach-i-stogin-i-rydannya/"
+    },
+    {
+        "book_name": "Кавказ",
+        "book_author": "Михайло Лермонтов",
+        "book_link": "https://knigogo.com.ua/knigi/kavkaz-lermontov/"
+    },
+    {
+        "book_name": "Доктор Фаустус",
+        "book_author": "Томас Манн",
+        "book_link": "https://knigogo.com.ua/knigi/doktor-faustus/"
+    },
+    {
+        "book_name": "Породила мене мати",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/porodyla-mene-maty/"
+    },
+    {
+        "book_name": "Погибнеш, згинеш, Україно",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/pogybnesh-zgynesh-ukrayino/"
+    },
+    {
+        "book_name": "Світе ясний, світе тихий",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/svite-yasnyj-svite-tyhyj/"
+    },
+    {
+        "book_name": "Буває, іноді старий",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/buvaye-inodi-staryj/"
+    },
+    {
+        "book_name": "Отелло, венеціанський мавр",
+        "book_author": "Вільям Шекспір",
+        "book_link": "https://knigogo.com.ua/knigi/otello-venetsianskyj-mavr/"
+    },
+    {
+        "book_name": "Королі і капуста",
+        "book_author": "О. Генрі",
+        "book_link": "https://knigogo.com.ua/knigi/koroli-i-kapusta/"
+    },
+    {
+        "book_name": "Сестрі",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/sestri/"
+    },
+    {
+        "book_name": "Неофіти",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/neofity/"
+    },
+    {
+        "book_name": "Над Дніпровою сагою",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/nad-dniprovoyu-sagoyu/"
+    },
+    {
+        "book_name": "Утоптала стежечку",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/utoptala-stezhechku/"
+    },
+    {
+        "book_name": "Якби мені, мамо, намисто",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/yakby-meni-mamo-namysto/"
+    },
+    {
+        "book_name": "Петрусь",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/petrus/"
+    },
+    {
+        "book_name": "Скорочено Крихітка Цахес...",
+        "book_author": "Ернст Теодор Амадей Гофман",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-kryhitka-tsahes/"
+    },
+    {
+        "book_name": "Троє в одному човні (Як ...",
+        "book_author": "Джером Клапка Джером",
+        "book_link": "https://knigogo.com.ua/knigi/troye-v-odnomu-chovni/"
+    },
+    {
+        "book_name": "І золотої й дорогої",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/i-zolotoyi-j-dorogoyi/"
+    },
+    {
+        "book_name": "Планета людей",
+        "book_author": "Антуан де Сент-Екзюпері",
+        "book_link": "https://knigogo.com.ua/knigi/planeta-lyudej/"
+    },
+    {
+        "book_name": "Юродивий",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/yurodyvyj/"
+    },
+    {
+        "book_name": "Чи то недоля та неволя",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/chy-to-nedolya-ta-nevolya/"
+    },
+    {
+        "book_name": "Як дитиною, бувало…",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/yak-dytynoyu-buvalo/"
+    },
+    {
+        "book_name": "Осінь-маляр із палітрою ...",
+        "book_author": "Максим Рильський",
+        "book_link": "https://knigogo.com.ua/knigi/osin-malyar-iz-palitroyu-pyshnoyu/"
+    },
+    {
+        "book_name": "Над прірвою у житі (Лове...",
+        "book_author": "Джером Девід Селінджер",
+        "book_link": "https://knigogo.com.ua/knigi/nad-prirvoyu-u-zhyti/"
+    },
+    {
+        "book_name": "Добре торгувалось",
+        "book_author": "Степан Руданський",
+        "book_link": "https://knigogo.com.ua/knigi/dobre-torguvalos/"
+    },
+    {
+        "book_name": "Червона рута",
+        "book_author": "Володимир Івасюк",
+        "book_link": "https://knigogo.com.ua/knigi/chervona-ruta/"
+    },
+    {
+        "book_name": "Рукавичка",
+        "book_author": "Фрідріх Шиллер",
+        "book_link": "https://knigogo.com.ua/knigi/rukavychka/"
+    },
+    {
+        "book_name": "Пурпурні вітрила",
+        "book_author": "Олександр Грін",
+        "book_link": "https://knigogo.com.ua/knigi/purpurni-vitryla/"
+    },
+    {
+        "book_name": "Хокку",
+        "book_author": "Мацуо Басьо",
+        "book_link": "https://knigogo.com.ua/knigi/hokku/"
+    },
+    {
+        "book_name": "Гайдамаки",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/gajdamaky/"
+    },
+    {
+        "book_name": "Скорочено Дорогою ціною",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-dorogoyu-tsinoyu/"
+    },
+    {
+        "book_name": "Пісня про рушник",
+        "book_author": "Андрій Малишко",
+        "book_link": "https://knigogo.com.ua/knigi/pisnya-pro-rushnyk/"
+    },
+    {
+        "book_name": "Снап",
+        "book_author": "Ернест Сетон-Томпсон",
+        "book_link": "https://knigogo.com.ua/knigi/snap/"
+    },
+    {
+        "book_name": "Майстер корабля",
+        "book_author": "Юрій Яновський",
+        "book_link": "https://knigogo.com.ua/knigi/majster-korablya/"
+    },
+    {
+        "book_name": "Думка (Тече вода в синє ...",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/dumka/"
+    },
+    {
+        "book_name": "Дикі лебеді",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/dyki-lebedi/"
+    },
+    {
+        "book_name": "Думи мої, думи мої",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/dumy-moyi-dumy-moyi/"
+    },
+    {
+        "book_name": "Солом’яний бичок",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/solom-yanyj-bychok/"
+    },
+    {
+        "book_name": "Мишка",
+        "book_author": "Богдан Лепкий",
+        "book_link": "https://knigogo.com.ua/knigi/myshka/"
+    },
+    {
+        "book_name": "Скорочено Камінний хрест",
+        "book_author": "Василь Стефаник",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-kaminnyj-hrest/"
+    },
+    {
+        "book_name": "По дорозі в Казку",
+        "book_author": "Олександр Олесь",
+        "book_link": "https://knigogo.com.ua/knigi/po-dorozi-v-kazku/"
+    },
+    {
+        "book_name": "Останній з могікан",
+        "book_author": "Джеймс Фенімор Купер",
+        "book_link": "https://knigogo.com.ua/knigi/ostannij-z-mogikan/"
+    },
+    {
+        "book_name": "Скорочено Мартин Боруля",
+        "book_author": "Іван Карпенко-Карий",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-martyn-borulya/"
+    },
+    {
+        "book_name": "Доля",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/dolya/"
+    },
+    {
+        "book_name": "Лікар Айболить",
+        "book_author": "Корній Чуковський",
+        "book_link": "https://knigogo.com.ua/knigi/likar-ajbolyt/"
+    },
+    {
+        "book_name": "У теплі дні збирання вин...",
+        "book_author": "Максим Рильський",
+        "book_link": "https://knigogo.com.ua/knigi/u-tepli-dni-zbyrannya-vynogradu/"
+    },
+    {
+        "book_name": "Жар-птиця",
+        "book_author": "Ірина Жиленко",
+        "book_link": "https://knigogo.com.ua/knigi/zhar-ptytsya/"
+    },
+    {
+        "book_name": "Нічна пісня подорожнього",
+        "book_author": "Йоганн Вольфганг фон Гете",
+        "book_link": "https://knigogo.com.ua/knigi/nichna-pisnya-podorozhnogo/"
+    },
+    {
+        "book_name": "Скорочено Ревізор",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-revizor/"
+    },
+    {
+        "book_name": "Біла береза",
+        "book_author": "Сергій Єсенін",
+        "book_link": "https://knigogo.com.ua/knigi/bila-bereza/"
+    },
+    {
+        "book_name": "Яйце-Райце",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/yajtse-rajtse/"
+    },
+    {
+        "book_name": "Бабка та Мурашка",
+        "book_author": "Іван Крилов",
+        "book_link": "https://knigogo.com.ua/knigi/babka-ta-murashka/"
+    },
+    {
+        "book_name": "Скорочено Дон Кіхот (Пре...",
+        "book_author": "Мігель де Сервантес",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-don-kihot/"
+    },
+    {
+        "book_name": "Націоналізм",
+        "book_author": "Дмитро Донцов",
+        "book_link": "https://knigogo.com.ua/knigi/natsionalizm/"
+    },
+    {
+        "book_name": "Щука",
+        "book_author": "Леонід Глібов",
+        "book_link": "https://knigogo.com.ua/knigi/shhuka/"
+    },
+    {
+        "book_name": "Ой три шляхи широкії",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/oj-try-shlyahy-shyrokiyi/"
+    },
+    {
+        "book_name": "Балада про мальви",
+        "book_author": "Володимир Івасюк",
+        "book_link": "https://knigogo.com.ua/knigi/balada-pro-malvy/"
+    },
+    {
+        "book_name": "Вертатись пізно",
+        "book_author": "Ігор Павлюк",
+        "book_link": "https://knigogo.com.ua/knigi/vertatys-pizno/"
+    },
+    {
+        "book_name": "Скорочено Я (Романтика)",
+        "book_author": "Микола Хвильовий",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-ya-romantyka/"
+    },
+    {
+        "book_name": "Скорочено Intermezzo",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-intermezzo/"
+    },
+    {
+        "book_name": "Декамерон",
+        "book_author": "Джованні Боккаччо",
+        "book_link": "https://knigogo.com.ua/knigi/dekameron/"
+    },
+    {
+        "book_name": "Жди мене",
+        "book_author": "Костянтин Симонов",
+        "book_link": "https://knigogo.com.ua/knigi/zhdy-mene/"
+    },
+    {
+        "book_name": "Скорочено Злочин і кара",
+        "book_author": "Федір Достоєвський",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-zlochyn-i-kara/"
+    },
+    {
+        "book_name": "Лихо з розуму (Горе з ро...",
+        "book_author": "Олександр Грибоєдов",
+        "book_link": "https://knigogo.com.ua/knigi/lyho-z-rozumu/"
+    },
+    {
+        "book_name": "Свинопас",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/svynopas/"
+    },
+    {
+        "book_name": "Скорочено Собор Паризько...",
+        "book_author": "Віктор Гюго",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-sobor-paryzkoyi-bogomateri/"
+    },
+    {
+        "book_name": "Бачиш: між трав зелених",
+        "book_author": "Володимир Підпалий",
+        "book_link": "https://knigogo.com.ua/knigi/bachysh-mizh-trav-zelenyh/"
+    },
+    {
+        "book_name": "Скорочено Хазяїн",
+        "book_author": "Іван Карпенко-Карий",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-hazyayin/"
+    },
+    {
+        "book_name": "Росли укупочці, зросли...",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/rosly-ukupochtsi-zrosly/"
+    },
+    {
+        "book_name": "Федорине горе",
+        "book_author": "Корній Чуковський",
+        "book_link": "https://knigogo.com.ua/knigi/fedoryne-gore/"
+    },
+    {
+        "book_name": "Скорочено Старий і море",
+        "book_author": "Ернест Хемінгуей",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-staryj-i-more/"
+    },
+    {
+        "book_name": "Мийдодір",
+        "book_author": "Корній Чуковський",
+        "book_link": "https://knigogo.com.ua/knigi/myjdodir/"
+    },
+    {
+        "book_name": "Скорочено Мандри Гуллівера",
+        "book_author": "Джонатан Свіфт",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-mandry-gullivera/"
+    },
+    {
+        "book_name": "Fata Morgana",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/fata-morgana/"
+    },
+    {
+        "book_name": "Тартюф",
+        "book_author": "Жан Батист Мольєр",
+        "book_link": "https://knigogo.com.ua/knigi/tartyuf/"
+    },
+    {
+        "book_name": "Княжна Тараканова",
+        "book_author": "Наталія Дзюбенко-Мейс",
+        "book_link": "https://knigogo.com.ua/knigi/knyazhna-tarakanova/"
+    },
+    {
+        "book_name": "Казка про царя Салтана",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/kazka-pro-tsarya-saltana/"
+    },
+    {
+        "book_name": "Дикий ангел",
+        "book_author": "Олексій Коломієць",
+        "book_link": "https://knigogo.com.ua/knigi/dykyj-angel/"
+    },
+    {
+        "book_name": "Зимова ніч",
+        "book_author": "Борис Пастернак",
+        "book_link": "https://knigogo.com.ua/knigi/zymova-nich/"
+    },
+    {
+        "book_name": "Чудовий день для рибки-б...",
+        "book_author": "Джером Девід Селінджер",
+        "book_link": "https://knigogo.com.ua/knigi/chudovyj-den-dlya-rybky-bananky/"
+    },
+    {
+        "book_name": "Пісня про собаку",
+        "book_author": "Сергій Єсенін",
+        "book_link": "https://knigogo.com.ua/knigi/pisnya-pro-sobaku/"
+    },
+    {
+        "book_name": "Декамерон",
+        "book_author": "Джованні Боккаччо",
+        "book_link": "https://knigogo.com.ua/knigi/dekameron/"
+    },
+    {
+        "book_name": "Всякому місту — звичай і...",
+        "book_author": "Григорій Сковорода",
+        "book_link": "https://knigogo.com.ua/knigi/vsyakomu-mistu-zvychaj-i-prava/"
+    },
+    {
+        "book_name": "De Libertate",
+        "book_author": "Григорій Сковорода",
+        "book_link": "https://knigogo.com.ua/knigi/de-libertate/"
+    },
+    {
+        "book_name": "Скорочено Модри Камень",
+        "book_author": "Олесь Гончар",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-modry-kamen/"
+    },
+    {
+        "book_name": "Чого являєшся мені…",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/chogo-yavlyayeshsya-meni/"
+    },
+    {
+        "book_name": "Дівчинка",
+        "book_author": "Ігор Павлюк",
+        "book_link": "https://knigogo.com.ua/knigi/divchynka/"
+    },
+    {
+        "book_name": "Спляча красуня",
+        "book_author": "Шарль Перро",
+        "book_link": "https://knigogo.com.ua/knigi/splyacha-krasunya/"
+    },
+    {
+        "book_name": "Євгеній Онєгін",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/yevgenij-onyegin/"
+    },
+    {
+        "book_name": "Доля людини",
+        "book_author": "Михайло Шолохов",
+        "book_link": "https://knigogo.com.ua/knigi/dolya-lyudyny/"
+    },
+    {
+        "book_name": "Принц і злидар",
+        "book_author": "Марк Твен",
+        "book_link": "https://knigogo.com.ua/knigi/prynts-i-zlydar/"
+    },
+    {
+        "book_name": "Расмус-волоцюга",
+        "book_author": "Астрід Ліндгрен",
+        "book_link": "https://knigogo.com.ua/knigi/rasmus-volotsyuga/"
+    },
+    {
+        "book_name": "Пам’яті тридцяти",
+        "book_author": "Павло Тичина",
+        "book_link": "https://knigogo.com.ua/knigi/pam-yati-trydtsyaty/"
+    },
+    {
+        "book_name": "Запорожці у короля",
+        "book_author": "Степан Руданський",
+        "book_link": "https://knigogo.com.ua/knigi/zaporozhtsi-u-korolya/"
+    },
+    {
+        "book_name": "На дорогу йду я в самотині",
+        "book_author": "Михайло Лермонтов",
+        "book_link": "https://knigogo.com.ua/knigi/na-dorogu-jdu-ya-v-samotyni/"
+    },
+    {
+        "book_name": "Я не люблю",
+        "book_author": "Володимир Висоцький",
+        "book_link": "https://knigogo.com.ua/knigi/ya-ne-lyublyu/"
+    },
+    {
+        "book_name": "Сага про Форсайтів",
+        "book_author": "Джон Голсуорсі",
+        "book_link": "https://knigogo.com.ua/knigi/saga-pro-forsajtiv/"
+    },
+    {
+        "book_name": "Людина в футлярі",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/lyudyna-v-futlyari/"
+    },
+    {
+        "book_name": "Альпійська балада",
+        "book_author": "Василь Биков",
+        "book_link": "https://knigogo.com.ua/knigi/alpijska-balada/"
+    },
+    {
+        "book_name": "Ода радості",
+        "book_author": "Фрідріх Шиллер",
+        "book_link": "https://knigogo.com.ua/knigi/oda-radosti/"
+    },
+    {
+        "book_name": "Що за птиця?",
+        "book_author": "Леонід Глібов",
+        "book_link": "https://knigogo.com.ua/knigi/shho-za-ptytsya/"
+    },
+    {
+        "book_name": "Скорочено Собаче серце",
+        "book_author": "Михайло Булгаков",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-sobache-sertse/"
+    },
+    {
+        "book_name": "Місто Сонця",
+        "book_author": "Томмазо Кампанелла",
+        "book_link": "https://knigogo.com.ua/knigi/misto-sontsya/"
+    },
+    {
+        "book_name": "Скорочено Дикі лебеді",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-dyki-lebedi/"
+    },
+    {
+        "book_name": "Скорочено Ілля Муромець ...",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-illya-muromets-i-solovej-rozbijnyk/"
+    },
+    {
+        "book_name": "Пожар",
+        "book_author": "Самуїл Маршак",
+        "book_link": "https://knigogo.com.ua/knigi/pozhar/"
+    },
+    {
+        "book_name": "Ти не любиш мене",
+        "book_author": "Микола Вороний",
+        "book_link": "https://knigogo.com.ua/knigi/ty-ne-lyubysh-mene/"
+    },
+    {
+        "book_name": "Шельменко-денщик",
+        "book_author": "Григорій Квітка-Основ’яненко",
+        "book_link": "https://knigogo.com.ua/knigi/shelmenko-denshhyk/"
+    },
+    {
+        "book_name": "Пісня про себе (збірка &...",
+        "book_author": "Волт Вітмен",
+        "book_link": "https://knigogo.com.ua/knigi/pisnya-pro-sebe/"
+    },
+    {
+        "book_name": "Скорочено Мауглі",
+        "book_author": "Редьярд Кіплінг",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-maugli/"
+    },
+    {
+        "book_name": "Дума про братів Неазовських",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/duma-pro-brativ-neazovskyh/"
+    },
+    {
+        "book_name": "Пістрява стрічка",
+        "book_author": "Артур Конан Дойл",
+        "book_link": "https://knigogo.com.ua/knigi/pistryava-strichka/"
+    },
+    {
+        "book_name": "Скорочено Джакомо Джойс",
+        "book_author": "Джеймс Джойс",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-dzhakomo-dzhojs/"
+    },
+    {
+        "book_name": "Скіфська одіссея",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/skifska-odisseya/"
+    },
+    {
+        "book_name": "Пріам у Ахілла",
+        "book_author": "Гомер",
+        "book_link": "https://knigogo.com.ua/knigi/priam-u-ahilla/"
+    },
+    {
+        "book_name": "Берестечко",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/berestechko/"
+    },
+    {
+        "book_name": "Як Робін Гуд став розбій...",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/yak-robin-gud-stav-rozbijnykom/"
+    },
+    {
+        "book_name": "Чорнильне серце",
+        "book_author": "Корнелія Функе",
+        "book_link": "https://knigogo.com.ua/knigi/chornylne-sertse/"
+    },
+    {
+        "book_name": "Я хочу на озеро Світязь",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/ya-hochu-na-ozero-svityaz/"
+    },
+    {
+        "book_name": "Сніг у Флоренції",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/snig-u-florentsiyi/"
+    },
+    {
+        "book_name": "Павутинка",
+        "book_author": "Рюноске Акутагава",
+        "book_link": "https://knigogo.com.ua/knigi/pavutynka/"
+    },
+    {
+        "book_name": "Наталка-Полтавка",
+        "book_author": "Іван Котляревський",
+        "book_link": "https://knigogo.com.ua/knigi/natalka-poltavka/"
+    },
+    {
+        "book_name": "Кайдашева сім’я",
+        "book_author": "Іван Нечуй-Левицький",
+        "book_link": "https://knigogo.com.ua/knigi/kajdasheva-simya/"
+    },
+    {
+        "book_name": "Кобзар",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/kobzar/"
+    },
+    {
+        "book_name": "Лісова пісня",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/lisova-pisnya/"
+    },
+    {
+        "book_name": "Конотопська відьма",
+        "book_author": "Григорій Квітка-Основ’яненко",
+        "book_link": "https://knigogo.com.ua/knigi/konotopska-vidma/"
+    },
+    {
+        "book_name": "Сіроманець",
+        "book_author": "Микола Вінграновський",
+        "book_link": "https://knigogo.com.ua/knigi/siromanets/"
+    },
+    {
+        "book_name": "Я (РОМАНТИКА)",
+        "book_author": "Микола Хвильовий",
+        "book_link": "https://knigogo.com.ua/knigi/ya-romantyka/"
+    },
+    {
+        "book_name": "Мойсей",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/mojsej/"
+    },
+    {
+        "book_name": "Чорна рада",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/chorna-rada/"
+    },
+    {
+        "book_name": "Запах думки",
+        "book_author": "Роберт Шеклі",
+        "book_link": "https://knigogo.com.ua/knigi/zapah-dumky/"
+    },
+    {
+        "book_name": "Сойчине крило",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/sojchyne-krylo/"
+    },
+    {
+        "book_name": "Дорогою ціною",
+        "book_author": "Михайло Коцюбинський",
+        "book_link": "https://knigogo.com.ua/knigi/dorogoyu-tsinoyu/"
+    },
+    {
+        "book_name": "Хіба ревуть воли, як ясл...",
+        "book_author": "Панас Мирний",
+        "book_link": "https://knigogo.com.ua/knigi/hiba-revut-voly-yak-yasla-povni/"
+    },
+    {
+        "book_name": "Машина для здійснення ба...",
+        "book_author": "Пауль Маар",
+        "book_link": "https://knigogo.com.ua/knigi/mashyna-dlya-zdijsnennya-bazhan/"
+    },
+    {
+        "book_name": "Давня казка",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/davnya-kazka/"
+    },
+    {
+        "book_name": "Украдене щастя",
+        "book_author": "Іван Франко",
+        "book_link": "https://knigogo.com.ua/knigi/ukradene-shhastya/"
+    },
+    {
+        "book_name": "Неймовірні пригоди Івана...",
+        "book_author": "Олександр Гаврош",
+        "book_link": "https://knigogo.com.ua/knigi/nejmovirni-prygody-ivana-syly/"
+    },
+    {
+        "book_name": "Сватання на Гончарівці",
+        "book_author": "Григорій Квітка-Основ’яненко",
+        "book_link": "https://knigogo.com.ua/knigi/svatannya-na-goncharivtsi/"
+    },
+    {
+        "book_name": "Байки",
+        "book_author": "Леонід Глібов",
+        "book_link": "https://knigogo.com.ua/knigi/bajky/"
+    },
+    {
+        "book_name": "Таємниця козацької шаблі",
+        "book_author": "Зірка Мензатюк",
+        "book_link": "https://knigogo.com.ua/knigi/tayemnytsya-kozatskoyi-shabli/"
+    },
+    {
+        "book_name": "Хамелеон",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/hameleon/"
+    },
+    {
+        "book_name": "Летючий корабель",
+        "book_author": "No author",
+        "book_link": "https://knigogo.com.ua/knigi/letyuchyj-korabel/"
+    },
+    {
+        "book_name": "Мені однаково, чи буду",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/meni-odnakovo-chy-budu/"
+    },
+    {
+        "book_name": "Момент",
+        "book_author": "Володимир Винниченко",
+        "book_link": "https://knigogo.com.ua/knigi/moment/"
+    },
+    {
+        "book_name": "Ні, мамо, не можна нелюб...",
+        "book_author": "Євген Гребінка",
+        "book_link": "https://knigogo.com.ua/knigi/ni-mamo-ne-mozhna-nelyuba-lyubyt/"
+    },
+    {
+        "book_name": "Скорочено Чорна рада",
+        "book_author": "Пантелеймон Куліш",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-chorna-rada/"
+    },
+    {
+        "book_name": "Мрії",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/mriyi/"
+    },
+    {
+        "book_name": "Скорочено Сто тисяч",
+        "book_author": "Іван Карпенко-Карий",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-sto-tysyach/"
+    },
+    {
+        "book_name": "Засвіт встали козаченьки",
+        "book_author": "Маруся Чурай",
+        "book_link": "https://knigogo.com.ua/knigi/zasvit-vstaly-kozachenky/"
+    },
+    {
+        "book_name": "Так казав Заратустра",
+        "book_author": "Фрідріх Ніцше",
+        "book_link": "https://knigogo.com.ua/knigi/tak-kazav-zaratustra/"
+    },
+    {
+        "book_name": "Скорочено Майстер корабля",
+        "book_author": "Юрій Яновський",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-majster-korablya/"
+    },
+    {
+        "book_name": "Коли до вас темної ночі",
+        "book_author": "Галина Кирпа",
+        "book_link": "https://knigogo.com.ua/knigi/koly-do-vas-temnoyi-nochi/"
+    },
+    {
+        "book_name": "Неймовірні детективи (зб...",
+        "book_author": "Всеволод Нестайко",
+        "book_link": "https://knigogo.com.ua/knigi/nejmovirni-detektyvy-zbirka/"
+    },
+    {
+        "book_name": "Крук і лисиця",
+        "book_author": "Езоп",
+        "book_link": "https://knigogo.com.ua/knigi/kruk-i-lysytsya/"
+    },
+    {
+        "book_name": "Лебеді материнства",
+        "book_author": "Василь Симоненко",
+        "book_link": "https://knigogo.com.ua/knigi/lebedi-materynstva/"
+    },
+    {
+        "book_name": "Мріє, не зрадь!",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/mriye-ne-zrad/"
+    },
+    {
+        "book_name": "Казка про мертву царівну...",
+        "book_author": "Олександр Пушкін",
+        "book_link": "https://knigogo.com.ua/knigi/kazka-pro-mertvu-tsarivnu/"
+    },
+    {
+        "book_name": "Пігмаліон",
+        "book_author": "Джордж Бернард Шоу",
+        "book_link": "https://knigogo.com.ua/knigi/pigmalion/"
+    },
+    {
+        "book_name": "Пригоди бравого вояка Шв...",
+        "book_author": "Ярослав Гашек",
+        "book_link": "https://knigogo.com.ua/knigi/prygody-bravogo-voyaka-shvejka/"
+    },
+    {
+        "book_name": "Собор Паризької Богоматері",
+        "book_author": "Віктор Гюго",
+        "book_link": "https://knigogo.com.ua/knigi/sobor-paryzkoyi-bogomateri/"
+    },
+    {
+        "book_name": "Роберт Брюс, король Шотл...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/robert-bryus-korol-shotlandskyj/"
+    },
+    {
+        "book_name": "Ой діброво – темний гаю",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/oj-dibrovo-temnyj-gayu/"
+    },
+    {
+        "book_name": "І все-таки до тебе думка...",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/i-vse-taky-do-tebe-dumka-lyne/"
+    },
+    {
+        "book_name": "Скорочено Гуси-лебеді ле...",
+        "book_author": "Михайло Стельмах",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-gusy-lebedi-letyat/"
+    },
+    {
+        "book_name": "Приблуда",
+        "book_author": "Степан Васильович Васильченко",
+        "book_link": "https://knigogo.com.ua/knigi/prybluda/"
+    },
+    {
+        "book_name": "Бували войни й військові...",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/buvaly-vojny-j-vijskoviyi-svary/"
+    },
+    {
+        "book_name": "Муза",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/muza-shevchenko/"
+    },
+    {
+        "book_name": "Якби мені черевики",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/yakby-meni-cherevyky/"
+    },
+    {
+        "book_name": "Торт у небі",
+        "book_author": "Джанні Родарі",
+        "book_link": "https://knigogo.com.ua/knigi/tort-u-nebi/"
+    },
+    {
+        "book_name": "Сафо",
+        "book_author": "Леся Українка",
+        "book_link": "https://knigogo.com.ua/knigi/safo/"
+    },
+    {
+        "book_name": "Мені здається, я не знаю",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/meni-zdayetsya-ya-ne-znayu/"
+    },
+    {
+        "book_name": "Огні горять, музика грає",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/ogni-goryat-muzyka-graye/"
+    },
+    {
+        "book_name": "Скорочено Дивак",
+        "book_author": "Григір Тютюнник",
+        "book_link": "https://knigogo.com.ua/knigi/skorocheno-dyvak/"
+    },
+    {
+        "book_name": "Слава",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/slava/"
+    },
+    {
+        "book_name": "І Архімед, і Галілей",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/i-arhimed-i-galilej/"
+    },
+    {
+        "book_name": "Ой маю, маю я оченята",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/oj-mayu-mayu-ya-ochenyata/"
+    },
+    {
+        "book_name": "О люди, люди небораки",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/o-lyudy-lyudy-neboraky/"
+    },
+    {
+        "book_name": "Закувала зозуленька",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/zakuvala-zozulenka/"
+    },
+    {
+        "book_name": "Якось-то йдучи уночі",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/yakos-to-jduchy-unochi/"
+    },
+    {
+        "book_name": "Манфред",
+        "book_author": "Джордж Гордон Байрон",
+        "book_link": "https://knigogo.com.ua/knigi/manfred/"
+    },
+    {
+        "book_name": "Непохитний олов’ян...",
+        "book_author": "Ганс Христіан Андерсен",
+        "book_link": "https://knigogo.com.ua/knigi/nepohytnyj-olovyanyj-soldatyk/"
+    },
+    {
+        "book_name": "Очі чорні",
+        "book_author": "Євген Гребінка",
+        "book_link": "https://knigogo.com.ua/knigi/ochi-chorni/"
+    },
+    {
+        "book_name": "Ревізор",
+        "book_author": "Микола Гоголь",
+        "book_link": "https://knigogo.com.ua/knigi/revizor-gogol/"
+    },
+    {
+        "book_name": "Рибалка",
+        "book_author": "Петро Гулак-Артемовський",
+        "book_link": "https://knigogo.com.ua/knigi/rybalka/"
+    },
+    {
+        "book_name": "Полковникові ніхто не пише",
+        "book_author": "Габріель Гарсіа Маркес",
+        "book_link": "https://knigogo.com.ua/knigi/polkovnykovi-nihto-ne-pyshe/"
+    },
+    {
+        "book_name": "Три сестри",
+        "book_author": "Антон Чехов",
+        "book_link": "https://knigogo.com.ua/knigi/try-sestry/"
+    },
+    {
+        "book_name": "Горбоконик",
+        "book_author": "Петро Єршов",
+        "book_link": "https://knigogo.com.ua/knigi/gorbokonyk/"
+    },
+    {
+        "book_name": "Мені тринадцятий минало",
+        "book_author": "Тарас Шевченко",
+        "book_link": "https://knigogo.com.ua/knigi/meni-trynadtsyatyj-mynalo/"
+    },
+    {
+        "book_name": "Саламбо",
+        "book_author": "Гюстав Флобер",
+        "book_link": "https://knigogo.com.ua/knigi/salambo/"
+    },
+    {
+        "book_name": "Іма Сумак",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/ima-sumak/"
+    },
+    {
+        "book_name": "Чайка на крижині",
+        "book_author": "Ліна Костенко",
+        "book_link": "https://knigogo.com.ua/knigi/chajka-na-kryzhyni/"
+    },
+    {
+        "book_name": "Одчиняйте двері",
+        "book_author": "Павло Тичина",
+        "book_link": "https://knigogo.com.ua/knigi/odchynyajte-dveri/"
+    },
+    {
+        "book_name": "Муха-Цокотуха",
+        "book_author": "Корній Чуковський",
+        "book_link": "https://knigogo.com.ua/knigi/muha-tsokotuha/"
+    },
+    {
+        "book_name": "Гранатовий браслет",
+        "book_author": "Олександр Купрін",
+        "book_link": "https://knigogo.com.ua/knigi/granatovyj-braslet/"
+    },
+    {
+        "book_name": "Казки дядечка Рімуса",
+        "book_author": "Джоель Чандлер Гарріс",
+        "book_link": "https://knigogo.com.ua/knigi/kazky-dyadechka-rimusa/"
+    },
+    {
+        "book_name": "Забула внучка в баби чер...",
+        "book_author": "Станіслав Чернілевський",
+        "book_link": "https://knigogo.com.ua/knigi/zabula-vnuchka-v-baby-cherevychky/"
+    },
+    {
+        "book_name": "Прометей закутий",
+        "book_author": "Есхіл",
+        "book_link": "https://knigogo.com.ua/knigi/prometej-zakutyj/"
+    },
+    {
+        "book_name": "Гаргантюа і Пантагрюель",
+        "book_author": "Франсуа Рабле",
+        "book_link": "https://knigogo.com.ua/knigi/gargantyua-i-pantagryuel/"
+    },
+    {
+        "book_name": "Балада про схід і захід",
+        "book_author": "Редьярд Кіплінг",
+        "book_link": "https://knigogo.com.ua/knigi/balada-pro-shid-i-zahid/"
+    },
+    {
+        "book_name": "Квіти зла",
+        "book_author": "Шарль Бодлер",
+        "book_link": "https://knigogo.com.ua/knigi/kvity-zla/"
+    }
+]
